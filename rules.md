@@ -19,6 +19,7 @@
         * [**1.7.4. Formatting**](#formatting)
     * [**1.8. Glossary**](#glossary)
 * [**2. Channels**](#channels)
+    * [**2.1. #general**](#general)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -157,4 +158,8 @@ The definitions for terms listed here take precedence over their normal English 
 The game rules govern only messages and reactions in the “Quonauts 6” category of the Discord server.
 
 Each subsection of this rule section corresponds to a game channel; as these subsections are created, removed, or reordered, game channels must be created/renamed/reordered accordingly.
+
+### <a name='general'/> #general
+
+Players may freely converse in the <#660455405738262549> channel.
 
