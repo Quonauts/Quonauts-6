@@ -3,13 +3,12 @@
 	"proposals": [
 		{
 			"n": 1,
-			"author": 236831708354314240,
+			"author": null,
 			"content": "Quonauts 6 ends immediately and Quonauts 1 starts all over again.",
 			"status": "voting",
-			"message_id": 660606496689881098,
+			"message_id": 660617082022395926,
 			"votes": {
 				"160279332454006795": -1,
-				"236831708354314240": 1,
 				"309787486278909952": -1,
 				"474286909636476939": -1
 			},
@@ -20,7 +19,7 @@
 			"author": 160279332454006795,
 			"content": "Create a rule section within `Roles` named `Rule offender`:\n> Any player which has 1 or more strikes gains the rule offender role. Rule offenders cannot participate in the game (perform any game actions). After 24 hours, a players strike count will decrease by 1, if above 0. If a players strike count is 0, the Rule Offender role will be removed.",
 			"status": "voting",
-			"message_id": 660606497436467241,
+			"message_id": 660617103866331186,
 			"votes": {
 				"160279332454006795": 1,
 				"309787486278909952": 1
@@ -32,7 +31,7 @@
 			"author": 160279332454006795,
 			"content": "Create a rule section after \"Modifying proposals\" named \"Disallowed in proposals\" (this proposal depends on proposal #2):\n> Proposals may not give any players any more power than others. An exception to this rule is the Rule Offender role, and any power gained via some form of quantity.\n> \n> Power here is defined as the abillity to do some game action, or having more abillity to do some game action than others, or being able to win the game. (e.g \"Sinthorion wins the game.\" breaks this rule, but \"Any player with 1000000 moon cheese or more wins the game.\" does not.)",
 			"status": "voting",
-			"message_id": 660606498480717878,
+			"message_id": 660617107230294069,
 			"votes": {
 				"160279332454006795": 1,
 				"309787486278909952": 1,
