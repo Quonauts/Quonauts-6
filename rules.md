@@ -25,6 +25,7 @@
     * [**2.4. #polls**](#polls-channel)
 * [**3. Roles**](#roles)
 * [**4. Activity**](#activity)
+* [**5. Proposals**](#proposals)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -174,7 +175,7 @@ The <#660455454429937713> channel contains this rules document.
 
 ### <a name='proposals-channel'/> #proposals
 
-The <#660455429050073099> channel is governed by [%proposals].
+The <#660455429050073099> channel is governed by [**5. Proposals**](#proposals).
 
 ### <a name='polls-channel'/> #polls
 
@@ -187,4 +188,12 @@ The game rules govern roles that have effect within the game.
 ## <a name='activity'/> Activity
 
 All players that have taken some game action in the preceding 72 hours are active players. All other players are inactive players.
+
+## <a name='proposals'/> Proposals
+
+Proposals can be made by posting them to the <#660455429050073099> game channel.
+
+The first proposal is numbered #1 and each subsequent proposal’s number is increased by 1. Deleted proposals retain their number.
+
+A proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it.
 
