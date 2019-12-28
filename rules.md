@@ -34,6 +34,7 @@
     * [**5.4. Passing and failing proposals**](#passing-and-failing-proposals)
     * [**5.5. Modifying proposals**](#modifying-proposals)
 * [**6. Polls**](#polls)
+* [**7. Quantities**](#quantities)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -263,4 +264,20 @@ Players may vote in favor of a poll by reacting to the poll with 👍. Players m
 Players may use any reaction they wish to respond to a poll. The player conducting the poll may interpret other reactions to the poll as they see fit, except in formal polls, where reactions may only have meaning as specified in the rules.
 
 The player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.
+
+## <a name='quantities'/> Quantities
+
+A quantity is a named property with a numerical value for each player.
+
+By default any unique quantity added to the game:
+
+* applies to all players
+* is instantiated at zero
+* must always be an integer
+* must never have a negative value
+* cannot be traded or exchanged
+
+The following quantities exist:
+
+* Strike
 
