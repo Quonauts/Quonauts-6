@@ -23,6 +23,7 @@
     * [**2.2. #rules**](#rules)
     * [**2.3. #proposals**](#proposals-channel)
     * [**2.4. #polls**](#polls-channel)
+* [**3. Roles**](#roles)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -177,4 +178,8 @@ The <#660455429050073099> channel is governed by [%proposals].
 ### <a name='polls-channel'/> #polls
 
 The <#660555000296112128> channel is governed by [%polls].
+
+## <a name='roles'/> Roles
+
+The game rules govern roles that have effect within the game.
 
