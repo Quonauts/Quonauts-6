@@ -35,6 +35,7 @@
     * [**5.5. Modifying proposals**](#modifying-proposals)
 * [**6. Polls**](#polls)
 * [**7. Quantities**](#quantities)
+* [**8. End of the game**](#end)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -280,4 +281,8 @@ By default any unique quantity added to the game:
 The following quantities exist:
 
 * Strike
+
+## <a name='end'/> End of the game
+
+The game does not end.
 
