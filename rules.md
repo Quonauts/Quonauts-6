@@ -10,6 +10,7 @@
         * [**1.4.1. Errors**](#errors)
         * [**1.4.2. Rule violation polls**](#rule-violation-polls)
         * [**1.4.3. Punitive action**](#punitive-action)
+    * [**1.5. Timezones**](#timezones)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -68,4 +69,8 @@ Players should vote in favour of this poll if, and only if, they believe the con
 Any vote in such a poll cast by the convicted player is not counted.
 
 If a punitive action poll passes, then the convicted player gains one strike.
+
+### <a name='timezones'/> Timezones
+
+Unless otherwise specified, all times and dates are specified with respect to UTC.
 
