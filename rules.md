@@ -24,6 +24,7 @@
     * [**2.3. #proposals**](#proposals-channel)
     * [**2.4. #polls**](#polls-channel)
 * [**3. Roles**](#roles)
+* [**4. Activity**](#activity)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -182,4 +183,8 @@ The <#660555000296112128> channel is governed by [%polls].
 ## <a name='roles'/> Roles
 
 The game rules govern roles that have effect within the game.
+
+## <a name='activity'/> Activity
+
+All players that have taken some game action in the preceding 72 hours are active players. All other players are inactive players.
 
