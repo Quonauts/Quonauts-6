@@ -9,6 +9,7 @@
     * [**1.4. Rule violations**](#rule-violations)
         * [**1.4.1. Errors**](#errors)
         * [**1.4.2. Rule violation polls**](#rule-violation-polls)
+        * [**1.4.3. Punitive action**](#punitive-action)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -57,4 +58,14 @@ For any potential rule violation, only one rule violation poll may be conducted.
 A rule violation poll may not be started more than 7 days after the potential rule violation.
 
 If a rule violation poll passes, then the accused player is now convicted of violating the rules as described in the poll and the rule violation must be resolved, if it has not already.
+
+#### <a name='punitive-action'/> Punitive action
+
+If a player (hereby “the convicted player”) is convicted, then another player may conduct a majority poll (called a “punitive action poll”) to determine whether punitive action should be taken.
+
+Players should vote in favour of this poll if, and only if, they believe the convicted player violated the rules knowingly and with malicious intent.
+
+Any vote in such a poll cast by the convicted player is not counted.
+
+If a punitive action poll passes, then the convicted player gains one strike.
 
