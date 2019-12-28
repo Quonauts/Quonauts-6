@@ -33,6 +33,7 @@
     * [**5.3. Closing proposals**](#closing-proposals)
     * [**5.4. Passing and failing proposals**](#passing-and-failing-proposals)
     * [**5.5. Modifying proposals**](#modifying-proposals)
+* [**6. Polls**](#polls)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -186,7 +187,7 @@ The <#660455429050073099> channel is governed by [**5. Proposals**](#proposals).
 
 ### <a name='polls-channel'/> #polls
 
-The <#660555000296112128> channel is governed by [%polls].
+The <#660555000296112128> channel is governed by [**6. Polls**](#polls).
 
 ## <a name='roles'/> Roles
 
@@ -252,4 +253,14 @@ When a proposal is closed, it passes if it has more votes in favour than against
 ### <a name='modifying-proposals'/> Modifying proposals
 
 A player may edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.
+
+## <a name='polls'/> Polls
+
+A poll is a means of gathering the opinions of players on an issue. Players may conduct a poll by providing any necessary detail and posing a question in the <#660555000296112128> game channel. A poll that grants power to perform a game action or otherwise makes some formal determination are formal polls; all others are informal polls.
+
+Players may vote in favor of a poll by reacting to the poll with 👍. Players may vote against a poll by reacting to the poll with 👎.
+
+Players may use any reaction they wish to respond to a poll. The player conducting the poll may interpret other reactions to the poll as they see fit, except in formal polls, where reactions may only have meaning as specified in the rules.
+
+The player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.
 
