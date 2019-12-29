@@ -73,7 +73,7 @@
 			"votes": {
 				"160279332454006795": 1,
 				"271274710753476610": 1,
-				"309787486278909952": 1,
+				"309787486278909952": -1,
 				"330678593904443393": 1
 			},
 			"timestamp": 1577599764
@@ -155,6 +155,29 @@
 				"330678593904443393": 1
 			},
 			"timestamp": 1577612204
+		},
+		{
+			"n": 12,
+			"author": 309787486278909952,
+			"content": "Trying to clean up the initial ruleset a bit\n\nMove rule 5.4 \"Passing and failing proposals\" to rule 5.3.1 (subsection of 5.3 \"Closing proposals\"), and append the following:\n\n> The player that authored a proposal may fail or delete it at any time.\n> \n> When a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability.\n\nRemove from rule 5.3:\n\n> The player that authored a proposal may fail or delete it at any time.\n> \n> When a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability.",
+			"status": "voting",
+			"message_id": 660808900462903328,
+			"votes": {
+				"309787486278909952": 1,
+				"330678593904443393": 1
+			},
+			"timestamp": 1577619518
+		},
+		{
+			"n": 13,
+			"author": 309787486278909952,
+			"content": "Alternative to #5, placing the new content under 5.5 \"Modifying proposals\" instead of 5.3 \"Closing proposals\".\n\nAppend the following to rule 5.5:\n> The player passing the proposal may choose to add or remove whitespace and fix typos or grammar mistakes as needed so long as the meaning of the proposal remains unchanged. Clarifications or additional details should always be added by means of a new proposal.",
+			"status": "voting",
+			"message_id": 660809358791147520,
+			"votes": {
+				"309787486278909952": 1
+			},
+			"timestamp": 1577619628
 		}
 	]
 }
