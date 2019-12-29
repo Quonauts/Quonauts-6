@@ -54,3 +54,10 @@ Create a rule section after "Modifying proposals" named "Disallowed in proposals
 
 > Proposals may not create an unfair advantage for minorities based on Out of Game Information. Wether this has occurred can be determined through a formal poll, and the effects will be undone as necessary.
 
+<a name='7'/>
+
+## #7
+
+Create a rule section after "<#660555000296112128>" named "#transactions"
+> The #transactions channel may be used to modify quantities, but only as the game rules allow quantities to be changed.
+
