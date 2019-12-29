@@ -22,3 +22,15 @@ Create a rule section after "Modifying proposals" named "Disallowed in proposals
 > 
 > Power here is defined as the abillity to do some game action, or having more abillity to do some game action than others, or being able to win the game. (e.g "Sinthorion wins the game." breaks this rule, but "Any player with 1000000 moon cheese or more wins the game." does not.)
 
+<a name='4'/>
+
+## #4
+
+Out of Game Information
+
+Create rule #9, named “Out of Game Information”
+
+> Out of game information is any information that exists outside of the confines and variables of the game. This information includes but is not limited to:
+> The player’s username, presence on the internet, and messages in other channels or servers.
+> Some examples of *In Game Information* are the players votes, player’s quantities, proposals, or messages sent in the Quonauts 6 category.
+
