@@ -42,3 +42,15 @@ Append the following to rule 5.3:
 
 > The player passing the proposal may choose to add or remove whitespace and fix typos or grammar mistakes as needed so long as the meaning of the proposal remains unchanged. Clarifications or additional details should always be added by means of a new proposal.
 
+<a name='6'/>
+
+## #6
+
+Alternative to proposal #3, the purpose of this proposal is to ensure more freedom while protecting minorities from unfair majority rulings.
+
+This proposal depends on proposal #2 and proposal #4. If this proposal passes, any effects of proposal #3 will be retroactively undone and overwritten by this proposal.
+
+Create a rule section after "Modifying proposals" named "Disallowed in proposals"
+
+> Proposals may not create an unfair advantage for minorities based on Out of Game Information. Wether this has occurred can be determined through a formal poll, and the effects will be undone as necessary.
+
