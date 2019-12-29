@@ -24,6 +24,7 @@
     * [**2.3. #proposals**](#proposals-channel)
     * [**2.4. #polls**](#polls-channel)
 * [**3. Roles**](#roles)
+    * [**3.1. Rule Offender**](#rule-offender)
 * [**4. Activity**](#activity)
 * [**5. Proposals**](#proposals)
     * [**5.1. Proposal content**](#proposal-content)
@@ -194,6 +195,10 @@ The <#660555000296112128> channel is governed by [**6. Polls**](#polls).
 ## <a name='roles'/> Roles
 
 The game rules govern roles that have effect within the game.
+
+### <a name='rule-offender'/> Rule Offender
+
+Any player which has 1 or more strikes gains the rule offender role. Rule offenders cannot participate in the game (perform any game actions). After 24 hours, a players strike count will decrease by 1, if above 0. If a players strike count is 0, the Rule Offender role will be removed.
 
 ## <a name='activity'/> Activity
 
