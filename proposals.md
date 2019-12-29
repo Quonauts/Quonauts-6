@@ -61,3 +61,23 @@ Create a rule section after "Modifying proposals" named "Disallowed in proposals
 Create a rule section after "<#660555000296112128>" named "#transactions"
 > The #transactions channel may be used to modify quantities, but only as the game rules allow quantities to be changed.
 
+<a name='8'/>
+
+## #8
+
+Overwrite the rule section "Quantities" with the following:
+> A quantity is a named property with a numerical value for each player.
+> 
+> By default any unique quantity added to the game:
+> 
+> • applies to all players
+> • is instantiated at zero
+> • must always be an integer
+> • must never have a negative value
+> • cannot be traded or exchanged
+> 
+> The following quantities exist:
+> 
+> • Strike
+> • Point
+
