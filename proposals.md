@@ -122,3 +122,12 @@ Remove from rule 5.3:
 > 
 > When a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability.
 
+<a name='13'/>
+
+## #13
+
+Alternative to #5, placing the new content under 5.5 "Modifying proposals" instead of 5.3 "Closing proposals".
+
+Append the following to rule 5.5:
+> The player passing the proposal may choose to add or remove whitespace and fix typos or grammar mistakes as needed so long as the meaning of the proposal remains unchanged. Clarifications or additional details should always be added by means of a new proposal.
+
