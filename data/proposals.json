@@ -56,6 +56,7 @@
 			"status": "voting",
 			"message_id": 660724621372424192,
 			"votes": {
+				"160279332454006795": 0,
 				"271274710753476610": 1,
 				"330678593904443393": 0
 			},
@@ -68,6 +69,7 @@
 			"status": "voting",
 			"message_id": 660726044273278977,
 			"votes": {
+				"160279332454006795": 1,
 				"271274710753476610": 1,
 				"330678593904443393": 1
 			},
@@ -80,9 +82,30 @@
 			"status": "voting",
 			"message_id": 660728327522484254,
 			"votes": {
+				"160279332454006795": 0,
 				"271274710753476610": 1
 			},
 			"timestamp": 1577600308
+		},
+		{
+			"n": 7,
+			"author": 160279332454006795,
+			"content": "Create a rule section after \"<#660555000296112128>\" named \"#transactions\"\n> The #transactions channel may be used to modify quantities, but only as the game rules allow quantities to be changed.",
+			"status": "voting",
+			"message_id": 660767510056009751,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1577609650
+		},
+		{
+			"n": 8,
+			"author": 160279332454006795,
+			"content": "Overwrite the rule section \"Quantities\" with the following:\n> A quantity is a named property with a numerical value for each player.\n> \n> By default any unique quantity added to the game:\n> \n> \u2022 applies to all players\n> \u2022 is instantiated at zero\n> \u2022 must always be an integer\n> \u2022 must never have a negative value\n> \u2022 cannot be traded or exchanged\n> \n> The following quantities exist:\n> \n> \u2022 Strike\n> \u2022 Point",
+			"status": "voting",
+			"message_id": 660768195908468766,
+			"votes": {},
+			"timestamp": 1577609814
 		}
 	]
 }
