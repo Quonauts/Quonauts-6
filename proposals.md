@@ -2,7 +2,7 @@
 
 <a name='1'/>
 
-## #1 — Passed
+## #1 — Failed
 
 Quonauts 6 ends immediately and Quonauts 1 starts all over again.
 
