@@ -18,7 +18,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				660601994066526228
+				660777870909505537
 			]
 		},
 		"bots": {
@@ -53,7 +53,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				660602019811164161
+				660777896742223877
 			]
 		},
 		"conflict-resolution": {
@@ -63,7 +63,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				660602017378730016
+				660777872914644993
 			]
 		},
 		"content": {
@@ -83,7 +83,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				660602018603204644
+				660777894808649748
 			]
 		},
 		"disallowed-by-default": {
@@ -103,7 +103,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				660602044696100875
+				660777922097053703
 			]
 		},
 		"errors": {
@@ -192,7 +192,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				660602042573783101
+				660777898973724706
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -202,7 +202,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				660602020750819348
+				660777897501655040
 			]
 		},
 		"polls": {
@@ -212,7 +212,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				660602043215642673
+				660777920511344643
 			]
 		},
 		"polls-channel": {
@@ -245,7 +245,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				660601995484463115
+				660777872289431575
 			]
 		},
 		"proposals": {
@@ -261,7 +261,7 @@
 				"modifying-proposals"
 			],
 			"message_ids": [
-				660601994645602365
+				660777871500902411
 			]
 		},
 		"proposals-channel": {
@@ -291,7 +291,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				660602044423602186
+				660777921694400542
 			]
 		},
 		"roles": {
@@ -299,7 +299,9 @@
 			"title": "Roles",
 			"content": "The game rules govern roles that have effect within the game.",
 			"parent_tag": "root",
-			"child_tags": [],
+			"child_tags": [
+				"rule-offender"
+			],
 			"message_ids": [
 				660601993001435188
 			]
@@ -320,9 +322,19 @@
 				"end"
 			],
 			"message_ids": [
-				660602045853728798,
-				660602067668434944,
-				660602068607696916
+				660777923015475216,
+				660777923992616971,
+				660777945618579467
+			]
+		},
+		"rule-offender": {
+			"tag": "rule-offender",
+			"title": "Rule Offender",
+			"content": "Any player which has 1 or more strikes gains the rule offender role. Rule offenders cannot participate in the game (perform any game actions). After 24 hours, a players strike count will decrease by 1, if above 0. If a players strike count is 0, the Rule Offender role will be removed.",
+			"parent_tag": "roles",
+			"child_tags": [],
+			"message_ids": [
+				660777870205124628
 			]
 		},
 		"rule-violation-polls": {
@@ -391,7 +403,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				660602019119104001
+				660777895656030235
 			]
 		}
 	}
