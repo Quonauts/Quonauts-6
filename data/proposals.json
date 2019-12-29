@@ -48,6 +48,41 @@
 				"474286909636476939": 1
 			},
 			"timestamp": 1577570767
+		},
+		{
+			"n": 4,
+			"author": 271274710753476610,
+			"content": "Out of Game Information\n\nCreate rule #9, named \u201cOut of Game Information\u201d\n\n> Out of game information is any information that exists outside of the confines and variables of the game. This information includes but is not limited to:\n> The player\u2019s username, presence on the internet, and messages in other channels or servers.\n> Some examples of *In Game Information* are the players votes, player\u2019s quantities, proposals, or messages sent in the Quonauts 6 category.",
+			"status": "voting",
+			"message_id": 660724621372424192,
+			"votes": {
+				"271274710753476610": 1,
+				"330678593904443393": 0
+			},
+			"timestamp": 1577599425
+		},
+		{
+			"n": 5,
+			"author": 271274710753476610,
+			"content": "Append the following to rule 5.3:\n\n> The player passing the proposal may choose to add or remove whitespace and fix typos or grammar mistakes as needed so long as the meaning of the proposal remains unchanged. Clarifications or additional details should always be added by means of a new proposal.",
+			"status": "voting",
+			"message_id": 660726044273278977,
+			"votes": {
+				"271274710753476610": 1,
+				"330678593904443393": 1
+			},
+			"timestamp": 1577599764
+		},
+		{
+			"n": 6,
+			"author": 271274710753476610,
+			"content": "Alternative to proposal #3, the purpose of this proposal is to ensure more freedom while protecting minorities from unfair majority rulings.\n\nThis proposal depends on proposal #2 and proposal #4. If this proposal passes, any effects of proposal #3 will be retroactively undone and overwritten by this proposal.\n\nCreate a rule section after \"Modifying proposals\" named \"Disallowed in proposals\"\n\n> Proposals may not create an unfair advantage for minorities based on Out of Game Information. Wether this has occurred can be determined through a formal poll, and the effects will be undone as necessary.",
+			"status": "voting",
+			"message_id": 660728327522484254,
+			"votes": {
+				"271274710753476610": 1
+			},
+			"timestamp": 1577600308
 		}
 	]
 }
