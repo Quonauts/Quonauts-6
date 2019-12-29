@@ -28,6 +28,7 @@
 				"160279332454006795": 1,
 				"271274710753476610": 1,
 				"309787486278909952": 1,
+				"330678593904443393": 1,
 				"364562317645709336": 1,
 				"427589146295664667": 1
 			},
@@ -83,7 +84,8 @@
 			"message_id": 660728327522484254,
 			"votes": {
 				"160279332454006795": 0,
-				"271274710753476610": 1
+				"271274710753476610": 1,
+				"330678593904443393": -1
 			},
 			"timestamp": 1577600308
 		},
@@ -94,7 +96,8 @@
 			"status": "voting",
 			"message_id": 660767510056009751,
 			"votes": {
-				"160279332454006795": 1
+				"160279332454006795": 1,
+				"330678593904443393": 1
 			},
 			"timestamp": 1577609650
 		},
@@ -104,8 +107,35 @@
 			"content": "Overwrite the rule section \"Quantities\" with the following:\n> A quantity is a named property with a numerical value for each player.\n> \n> By default any unique quantity added to the game:\n> \n> \u2022 applies to all players\n> \u2022 is instantiated at zero\n> \u2022 must always be an integer\n> \u2022 must never have a negative value\n> \u2022 cannot be traded or exchanged\n> \n> The following quantities exist:\n> \n> \u2022 Strike\n> \u2022 Point",
 			"status": "voting",
 			"message_id": 660768195908468766,
-			"votes": {},
+			"votes": {
+				"160279332454006795": 1,
+				"330678593904443393": 1
+			},
 			"timestamp": 1577609814
+		},
+		{
+			"n": 9,
+			"author": 160279332454006795,
+			"content": "This proposal depends on proposal #8.\nAppend the following to the rule section \"Closing Proposals\":\n> When a proposal is closed, if the proposal has passed then the author of the proposal gains 2 points.\n> When a proposal is closed and has been FULLY passed (i.e the player has updated the <#660455454429937713> channel if needed, or done whatever action is required to the best of their ability) then the player who passed the proposal gains 1 point.",
+			"status": "voting",
+			"message_id": 660769270212329485,
+			"votes": {
+				"160279332454006795": 1,
+				"330678593904443393": 1
+			},
+			"timestamp": 1577610070
+		},
+		{
+			"n": 10,
+			"author": 160279332454006795,
+			"content": "Append the following to the rule section \"<#660455405738262549>\":\n> If a message stating \"i win\" is present in the <#660455405738262549> channel, the author is the winner of the game.",
+			"status": "voting",
+			"message_id": 660774344896544787,
+			"votes": {
+				"160279332454006795": -1,
+				"330678593904443393": -1
+			},
+			"timestamp": 1577611280
 		}
 	]
 }
