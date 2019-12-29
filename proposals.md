@@ -90,3 +90,10 @@ Append the following to the rule section "Closing Proposals":
 > When a proposal is closed, if the proposal has passed then the author of the proposal gains 2 points.
 > When a proposal is closed and has been FULLY passed (i.e the player has updated the <#660455454429937713> channel if needed, or done whatever action is required to the best of their ability) then the player who passed the proposal gains 1 point.
 
+<a name='10'/>
+
+## #10
+
+Append the following to the rule section "<#660455405738262549>":
+> If a message stating "i win" is present in the <#660455405738262549> channel, the author is the winner of the game.
+
