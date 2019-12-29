@@ -104,3 +104,21 @@ Append the following to the rule section "<#660455405738262549>":
 Append to rule 1.4.3:
 > Additionally, the offending player loses 5 points. If they have less than 5 points left, they lose as many as they have instead.
 
+<a name='12'/>
+
+## #12
+
+Trying to clean up the initial ruleset a bit
+
+Move rule 5.4 "Passing and failing proposals" to rule 5.3.1 (subsection of 5.3 "Closing proposals"), and append the following:
+
+> The player that authored a proposal may fail or delete it at any time.
+> 
+> When a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability.
+
+Remove from rule 5.3:
+
+> The player that authored a proposal may fail or delete it at any time.
+> 
+> When a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability.
+
