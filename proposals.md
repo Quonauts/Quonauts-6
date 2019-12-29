@@ -34,3 +34,11 @@ Create rule #9, named “Out of Game Information”
 > The player’s username, presence on the internet, and messages in other channels or servers.
 > Some examples of *In Game Information* are the players votes, player’s quantities, proposals, or messages sent in the Quonauts 6 category.
 
+<a name='5'/>
+
+## #5
+
+Append the following to rule 5.3:
+
+> The player passing the proposal may choose to add or remove whitespace and fix typos or grammar mistakes as needed so long as the meaning of the proposal remains unchanged. Clarifications or additional details should always be added by means of a new proposal.
+
