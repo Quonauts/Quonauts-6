@@ -97,3 +97,10 @@ Append the following to the rule section "Closing Proposals":
 Append the following to the rule section "<#660455405738262549>":
 > If a message stating "i win" is present in the <#660455405738262549> channel, the author is the winner of the game.
 
+<a name='11'/>
+
+## #11
+
+Append to rule 1.4.3:
+> Additionally, the offending player loses 5 points. If they have less than 5 points left, they lose as many as they have instead.
+
