@@ -15,7 +15,7 @@ Create a rule section within `Roles` named `Rule offender`:
 
 <a name='3'/>
 
-## #3
+## #3 — Passed
 
 Create a rule section after "Modifying proposals" named "Disallowed in proposals" (this proposal depends on proposal #2):
 > Proposals may not give any players any more power than others. An exception to this rule is the Rule Offender role, and any power gained via some form of quantity.
