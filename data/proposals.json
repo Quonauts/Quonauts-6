@@ -101,6 +101,7 @@
 			"message_id": 660767510056009751,
 			"votes": {
 				"160279332454006795": 1,
+				"271274710753476610": 1,
 				"309787486278909952": 1,
 				"330678593904443393": 1,
 				"427589146295664667": 1
@@ -115,6 +116,7 @@
 			"message_id": 660768195908468766,
 			"votes": {
 				"160279332454006795": 1,
+				"271274710753476610": 1,
 				"309787486278909952": 1,
 				"330678593904443393": 1,
 				"427589146295664667": 1
@@ -143,6 +145,7 @@
 			"message_id": 660774344896544787,
 			"votes": {
 				"160279332454006795": -1,
+				"271274710753476610": -1,
 				"309787486278909952": -1,
 				"330678593904443393": -1,
 				"427589146295664667": 1
@@ -185,6 +188,17 @@
 				"309787486278909952": 1
 			},
 			"timestamp": 1577619628
+		},
+		{
+			"n": 14,
+			"author": 271274710753476610,
+			"content": "Create a new rule at the end of the ruleset (the rule number assigned to this rule will henceforth be referred to as `x`) named \u201cSpace\u201d, with the following content:\n\n> \u201cSpace\u201d is a Tensor of order 3 (a 3 dimensional array). All players have a position in space, a set of 3 integers which denote the position in 3D space, which can be written with the following notation: `[x,y,z]`.\n\nCreate another rule, number x.1, named \u201cCenter\u201d with the following content:\n\n> All player\u2019s positions are initialized at [0,0,0], which can also be referred to as the \u201ccenter\u201d\n\nCreate another rule, number x.2, named \u201cMovement\u201d with the following content:\n\n> Once every 23 hours (in other words, as long as the player has not moved in the last 23 hours) a player may modify their personal position in space by +1 or -1 in all or some of the axis\u2019. (ex. [2,3,-1] > [2,2,0] is valid).\n\nCreate another rule, number x.3, named \u201cRestrictions\u201d with the following content:\n\n> halfArea is equal to 3\n> Positions on any of three axis must be between negative halfArea and positive halfArea. An axis of a position may not be changed in a way that is not allowed by this rule.",
+			"status": "voting",
+			"message_id": 661035384842747948,
+			"votes": {
+				"271274710753476610": 1
+			},
+			"timestamp": 1577673517
 		}
 	]
 }
