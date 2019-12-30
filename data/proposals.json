@@ -38,7 +38,7 @@
 			"n": 3,
 			"author": 160279332454006795,
 			"content": "Create a rule section after \"Modifying proposals\" named \"Disallowed in proposals\" (this proposal depends on proposal #2):\n> Proposals may not give any players any more power than others. An exception to this rule is the Rule Offender role, and any power gained via some form of quantity.\n> \n> Power here is defined as the abillity to do some game action, or having more abillity to do some game action than others, or being able to win the game. (e.g \"Sinthorion wins the game.\" breaks this rule, but \"Any player with 1000000 moon cheese or more wins the game.\" does not.)",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 660617107230294069,
 			"votes": {
 				"160279332454006795": 1,

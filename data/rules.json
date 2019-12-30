@@ -8,7 +8,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				660601891515793453
+				661002188734070794
 			]
 		},
 		"activity": {
@@ -18,7 +18,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				660777870909505537
+				661002291800834079
 			]
 		},
 		"bots": {
@@ -28,7 +28,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				660601920779714560
+				661002217406332928
 			]
 		},
 		"channels": {
@@ -43,7 +43,7 @@
 				"polls-channel"
 			],
 			"message_ids": [
-				660601968275750921
+				661002264898568193
 			]
 		},
 		"closing-proposals": {
@@ -53,7 +53,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				660777896742223877
+				661002317943799808
 			]
 		},
 		"conflict-resolution": {
@@ -63,7 +63,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				660777872914644993
+				661002315167170572
 			]
 		},
 		"content": {
@@ -73,7 +73,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				660601943131029507
+				661002239862636614
 			]
 		},
 		"dependency-resolution": {
@@ -83,7 +83,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				660777894808649748
+				661002316174065674
 			]
 		},
 		"disallowed-by-default": {
@@ -93,7 +93,17 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				660601893487378524
+				661002190508523550
+			]
+		},
+		"disallowed-in-proposals": {
+			"tag": "disallowed-in-proposals",
+			"title": "Disallowed in proposals",
+			"content": "Proposals may not give any players any more power than others. An exception to this rule is the Rule Offender role, and any power gained via some form of quantity.\n\nPower here is defined as the abillity to do some game action, or having more abillity to do some game action than others, or being able to win the game. (e.g \"Sinthorion wins the game.\" breaks this rule, but \"Any player with 1000000 moon cheese or more wins the game.\" does not.)",
+			"parent_tag": "proposals",
+			"child_tags": [],
+			"message_ids": [
+				661002342434603009
 			]
 		},
 		"end": {
@@ -103,7 +113,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				660777922097053703
+				661002366128095252
 			]
 		},
 		"errors": {
@@ -113,7 +123,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				660601916887269376
+				661002214633897995
 			]
 		},
 		"formatting": {
@@ -123,7 +133,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				660601945438027798
+				661002242362703882
 			]
 		},
 		"general": {
@@ -133,7 +143,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				660601969139908646
+				661002265523519530
 			]
 		},
 		"glossary": {
@@ -143,7 +153,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				660601967294283777
+				661002263753654284
 			]
 		},
 		"headers-and-tags": {
@@ -153,7 +163,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				660601943588339720
+				661002240475136026
 			]
 		},
 		"lists": {
@@ -163,7 +173,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				660601944527601729
+				661002241389363222
 			]
 		},
 		"meta-rules": {
@@ -182,7 +192,7 @@
 				"glossary"
 			],
 			"message_ids": [
-				660601890953756678
+				661002187572379657
 			]
 		},
 		"modifying-proposals": {
@@ -192,7 +202,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				660777898973724706
+				661002341704532008
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -202,7 +212,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				660777897501655040
+				661002339636871168
 			]
 		},
 		"polls": {
@@ -212,7 +222,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				660777920511344643
+				661002343084458005
 			]
 		},
 		"polls-channel": {
@@ -222,7 +232,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				660601992254717993
+				661002289108090880
 			]
 		},
 		"precedence": {
@@ -232,7 +242,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				660601892698718245
+				661002189770063912
 			]
 		},
 		"proposal-content": {
@@ -245,7 +255,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				660777872289431575
+				661002314169188364
 			]
 		},
 		"proposals": {
@@ -258,10 +268,11 @@
 				"voting-on-proposals",
 				"closing-proposals",
 				"passing-and-failing-proposals",
-				"modifying-proposals"
+				"modifying-proposals",
+				"disallowed-in-proposals"
 			],
 			"message_ids": [
-				660777871500902411
+				661002292668923914
 			]
 		},
 		"proposals-channel": {
@@ -271,7 +282,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				660601970767298560
+				661002267192983572
 			]
 		},
 		"punitive-action": {
@@ -281,7 +292,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				660601919210782760
+				661002215980531718
 			]
 		},
 		"quantities": {
@@ -291,7 +302,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				660777921694400542
+				661002343827111957
 			]
 		},
 		"roles": {
@@ -303,7 +314,7 @@
 				"rule-offender"
 			],
 			"message_ids": [
-				660601993001435188
+				661002290467045396
 			]
 		},
 		"root": {
@@ -322,9 +333,9 @@
 				"end"
 			],
 			"message_ids": [
-				660777923015475216,
-				660777923992616971,
-				660777945618579467
+				661002366820155392,
+				661002367487180831,
+				661002367826657302
 			]
 		},
 		"rule-offender": {
@@ -334,7 +345,7 @@
 			"parent_tag": "roles",
 			"child_tags": [],
 			"message_ids": [
-				660777870205124628
+				661002290861441067
 			]
 		},
 		"rule-violation-polls": {
@@ -344,7 +355,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				660601917835182103
+				661002215301054477
 			]
 		},
 		"rule-violations": {
@@ -358,7 +369,7 @@
 				"punitive-action"
 			],
 			"message_ids": [
-				660601894565052449
+				661002191850700810
 			]
 		},
 		"rules": {
@@ -368,7 +379,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				660601970029232139
+				661002266412843029
 			]
 		},
 		"style-conventions": {
@@ -383,7 +394,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				660601942426255401
+				661002239157993472
 			]
 		},
 		"timezones": {
@@ -393,7 +404,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				660601919659704342
+				661002216324202517
 			]
 		},
 		"voting-on-proposals": {
@@ -403,7 +414,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				660777895656030235
+				661002317134430266
 			]
 		}
 	}
