@@ -97,7 +97,7 @@
 			"n": 7,
 			"author": 160279332454006795,
 			"content": "Create a rule section after \"<#660555000296112128>\" named \"#transactions\"\n> The #transactions channel may be used to modify quantities, but only as the game rules allow quantities to be changed.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 660767510056009751,
 			"votes": {
 				"160279332454006795": 1,
@@ -112,7 +112,7 @@
 			"n": 8,
 			"author": 160279332454006795,
 			"content": "Overwrite the rule section \"Quantities\" with the following:\n> A quantity is a named property with a numerical value for each player.\n> \n> By default any unique quantity added to the game:\n> \n> \u2022 applies to all players\n> \u2022 is instantiated at zero\n> \u2022 must always be an integer\n> \u2022 must never have a negative value\n> \u2022 cannot be traded or exchanged\n> \n> The following quantities exist:\n> \n> \u2022 Strike\n> \u2022 Point",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 660768195908468766,
 			"votes": {
 				"160279332454006795": 1,

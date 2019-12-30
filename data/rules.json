@@ -18,7 +18,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661002291800834079
+				661197373606854657
 			]
 		},
 		"bots": {
@@ -40,7 +40,8 @@
 				"general",
 				"rules",
 				"proposals-channel",
-				"polls-channel"
+				"polls-channel",
+				"transactions-channel"
 			],
 			"message_ids": [
 				661002264898568193
@@ -53,7 +54,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661002317943799808
+				661197400958042152
 			]
 		},
 		"conflict-resolution": {
@@ -63,7 +64,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				661002315167170572
+				661197397145288734
 			]
 		},
 		"content": {
@@ -83,7 +84,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				661002316174065674
+				661197397854126081
 			]
 		},
 		"disallowed-by-default": {
@@ -103,7 +104,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661002342434603009
+				661197424228040728
 			]
 		},
 		"end": {
@@ -113,7 +114,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661002366128095252
+				661197452145197057
 			]
 		},
 		"errors": {
@@ -202,7 +203,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661002341704532008
+				661197423586181130
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -212,7 +213,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661002339636871168
+				661197422449393701
 			]
 		},
 		"polls": {
@@ -222,7 +223,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661002343084458005
+				661197425180016660
 			]
 		},
 		"polls-channel": {
@@ -255,7 +256,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				661002314169188364
+				661197396226867209
 			]
 		},
 		"proposals": {
@@ -272,7 +273,7 @@
 				"disallowed-in-proposals"
 			],
 			"message_ids": [
-				661002292668923914
+				661197373984473089
 			]
 		},
 		"proposals-channel": {
@@ -298,11 +299,11 @@
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players\n* is instantiated at zero\n* must always be an integer\n* must never have a negative value\n* cannot be traded or exchanged\n\nThe following quantities exist:\n\n* Strike",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players\n* is instantiated at zero\n* must always be an integer\n* must never have a negative value\n* cannot be traded or exchanged\n\nThe following quantities exist:\n\n* Strike\n* Point",
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661002343827111957
+				661197425926471681
 			]
 		},
 		"roles": {
@@ -314,7 +315,7 @@
 				"rule-offender"
 			],
 			"message_ids": [
-				661002290467045396
+				661197372197568522
 			]
 		},
 		"root": {
@@ -333,9 +334,9 @@
 				"end"
 			],
 			"message_ids": [
-				661002366820155392,
-				661002367487180831,
-				661002367826657302
+				661197452992315407,
+				661197453881638912,
+				661197454443675649
 			]
 		},
 		"rule-offender": {
@@ -345,7 +346,7 @@
 			"parent_tag": "roles",
 			"child_tags": [],
 			"message_ids": [
-				661002290861441067
+				661197372885565450
 			]
 		},
 		"rule-violation-polls": {
@@ -407,6 +408,16 @@
 				661002216324202517
 			]
 		},
+		"transactions-channel": {
+			"tag": "transactions-channel",
+			"title": "#transactions",
+			"content": "The #transactions channel may be used to modify quantities, but only as the game rules allow quantities to be changed.",
+			"parent_tag": "channels",
+			"child_tags": [],
+			"message_ids": [
+				661197371421753344
+			]
+		},
 		"voting-on-proposals": {
 			"tag": "voting-on-proposals",
 			"title": "Voting on proposals",
@@ -414,7 +425,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661002317134430266
+				661197399947214865
 			]
 		}
 	}
