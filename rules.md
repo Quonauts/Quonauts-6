@@ -34,6 +34,7 @@
     * [**5.3. Closing proposals**](#closing-proposals)
     * [**5.4. Passing and failing proposals**](#passing-and-failing-proposals)
     * [**5.5. Modifying proposals**](#modifying-proposals)
+    * [**5.6. Disallowed in proposals**](#disallowed-in-proposals)
 * [**6. Polls**](#polls)
 * [**7. Quantities**](#quantities)
 * [**8. End of the game**](#end)
@@ -260,6 +261,12 @@ When a proposal is closed, it passes if it has more votes in favour than against
 ### <a name='modifying-proposals'/> Modifying proposals
 
 A player may edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.
+
+### <a name='disallowed-in-proposals'/> Disallowed in proposals
+
+Proposals may not give any players any more power than others. An exception to this rule is the Rule Offender role, and any power gained via some form of quantity.
+
+Power here is defined as the abillity to do some game action, or having more abillity to do some game action than others, or being able to win the game. (e.g "Sinthorion wins the game." breaks this rule, but "Any player with 1000000 moon cheese or more wins the game." does not.)
 
 ## <a name='polls'/> Polls
 
