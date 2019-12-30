@@ -23,6 +23,7 @@
     * [**2.2. #rules**](#rules)
     * [**2.3. #proposals**](#proposals-channel)
     * [**2.4. #polls**](#polls-channel)
+    * [**2.5. #transactions**](#transactions-channel)
 * [**3. Roles**](#roles)
     * [**3.1. Rule Offender**](#rule-offender)
 * [**4. Activity**](#activity)
@@ -192,6 +193,10 @@ The <#660455429050073099> channel is governed by [**5. Proposals**](#proposals).
 ### <a name='polls-channel'/> #polls
 
 The <#660555000296112128> channel is governed by [**6. Polls**](#polls).
+
+### <a name='transactions-channel'/> #transactions
+
+The #transactions channel may be used to modify quantities, but only as the game rules allow quantities to be changed.
 
 ## <a name='roles'/> Roles
 
