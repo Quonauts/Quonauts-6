@@ -126,3 +126,24 @@ Remove from rule 5.3:
 
 ## #13 — Deleted
 
+<a name='14'/>
+
+## #14
+
+Create a new rule at the end of the ruleset (the rule number assigned to this rule will henceforth be referred to as `x`) named “Space”, with the following content:
+
+> “Space” is a Tensor of order 3 (a 3 dimensional array). All players have a position in space, a set of 3 integers which denote the position in 3D space, which can be written with the following notation: `[x,y,z]`.
+
+Create another rule, number x.1, named “Center” with the following content:
+
+> All player’s positions are initialized at [0,0,0], which can also be referred to as the “center”
+
+Create another rule, number x.2, named “Movement” with the following content:
+
+> Once every 23 hours (in other words, as long as the player has not moved in the last 23 hours) a player may modify their personal position in space by +1 or -1 in all or some of the axis’. (ex. [2,3,-1] > [2,2,0] is valid).
+
+Create another rule, number x.3, named “Restrictions” with the following content:
+
+> halfArea is equal to 3
+> Positions on any of three axis must be between negative halfArea and positive halfArea. An axis of a position may not be changed in a way that is not allowed by this rule.
+
