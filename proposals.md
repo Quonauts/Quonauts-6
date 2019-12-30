@@ -155,3 +155,9 @@ Append to rule 1.4.3. "Punitive action":
 
 > Additionally, the convicted player loses 5 points. If they have less than 5 points they lose as many as they have instead.
 
+<a name='16'/>
+
+## #16
+
+Change the "quantities" rule section, renaming "Points" to "Blue Points" and creating a new quantity named "Red Points", and stating that all usage of "points" refers to "Blue Points" unless otherwise specified.
+
