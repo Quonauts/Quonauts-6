@@ -298,6 +298,7 @@ By default any unique quantity added to the game:
 The following quantities exist:
 
 * Strike
+* Point
 
 ## <a name='end'/> End of the game
 
