@@ -8,7 +8,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661002188734070794
+				661200661928738818
 			]
 		},
 		"activity": {
@@ -18,7 +18,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661197373606854657
+				661200772800970755
 			]
 		},
 		"bots": {
@@ -28,7 +28,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661002217406332928
+				661200689229463554
 			]
 		},
 		"channels": {
@@ -44,7 +44,7 @@
 				"transactions-channel"
 			],
 			"message_ids": [
-				661002264898568193
+				661200745390931968
 			]
 		},
 		"closing-proposals": {
@@ -54,7 +54,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661197400958042152
+				661200819810729995
 			]
 		},
 		"conflict-resolution": {
@@ -64,7 +64,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				661197397145288734
+				661200796620292129
 			]
 		},
 		"content": {
@@ -74,7 +74,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				661002239862636614
+				661200716265816075
 			]
 		},
 		"dependency-resolution": {
@@ -84,7 +84,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				661197397854126081
+				661200797345906741
 			]
 		},
 		"disallowed-by-default": {
@@ -94,7 +94,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661002190508523550
+				661200664222892064
 			]
 		},
 		"disallowed-in-proposals": {
@@ -104,7 +104,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661197424228040728
+				661200822142763037
 			]
 		},
 		"end": {
@@ -114,7 +114,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661197452145197057
+				661200845068697601
 			]
 		},
 		"errors": {
@@ -124,7 +124,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				661002214633897995
+				661200686725201937
 			]
 		},
 		"formatting": {
@@ -134,7 +134,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				661002242362703882
+				661200718103052313
 			]
 		},
 		"general": {
@@ -144,7 +144,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661002265523519530
+				661200745772613634
 			]
 		},
 		"glossary": {
@@ -154,7 +154,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661002263753654284
+				661200744074051586
 			]
 		},
 		"headers-and-tags": {
@@ -164,7 +164,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				661002240475136026
+				661200717117128739
 			]
 		},
 		"lists": {
@@ -174,7 +174,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				661002241389363222
+				661200717822033930
 			]
 		},
 		"meta-rules": {
@@ -193,7 +193,7 @@
 				"glossary"
 			],
 			"message_ids": [
-				661002187572379657
+				661200661601320960
 			]
 		},
 		"modifying-proposals": {
@@ -203,7 +203,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661197423586181130
+				661200821433794574
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -213,7 +213,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661197422449393701
+				661200820590608385
 			]
 		},
 		"polls": {
@@ -223,7 +223,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661197425180016660
+				661200822905995274
 			]
 		},
 		"polls-channel": {
@@ -233,7 +233,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661002289108090880
+				661200769156120594
 			]
 		},
 		"precedence": {
@@ -243,7 +243,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661002189770063912
+				661200663165796380
 			]
 		},
 		"proposal-content": {
@@ -256,7 +256,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				661197396226867209
+				661200795588362240
 			]
 		},
 		"proposals": {
@@ -273,7 +273,7 @@
 				"disallowed-in-proposals"
 			],
 			"message_ids": [
-				661197373984473089
+				661200794799964170
 			]
 		},
 		"proposals-channel": {
@@ -283,7 +283,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661002267192983572
+				661200747676827648
 			]
 		},
 		"punitive-action": {
@@ -293,7 +293,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				661002215980531718
+				661200688105127936
 			]
 		},
 		"quantities": {
@@ -303,7 +303,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661197425926471681
+				661200844179636236
 			]
 		},
 		"roles": {
@@ -315,7 +315,7 @@
 				"rule-offender"
 			],
 			"message_ids": [
-				661197372197568522
+				661200771156803615
 			]
 		},
 		"root": {
@@ -334,9 +334,9 @@
 				"end"
 			],
 			"message_ids": [
-				661197452992315407,
-				661197453881638912,
-				661197454443675649
+				661200846411005952,
+				661200847161786377,
+				661200848269082670
 			]
 		},
 		"rule-offender": {
@@ -346,7 +346,7 @@
 			"parent_tag": "roles",
 			"child_tags": [],
 			"message_ids": [
-				661197372885565450
+				661200771940876305
 			]
 		},
 		"rule-violation-polls": {
@@ -356,7 +356,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				661002215301054477
+				661200687413198850
 			]
 		},
 		"rule-violations": {
@@ -370,7 +370,7 @@
 				"punitive-action"
 			],
 			"message_ids": [
-				661002191850700810
+				661200664621350914
 			]
 		},
 		"rules": {
@@ -380,7 +380,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661002266412843029
+				661200746628251653
 			]
 		},
 		"style-conventions": {
@@ -395,7 +395,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				661002239157993472
+				661200715447926804
 			]
 		},
 		"timezones": {
@@ -405,7 +405,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661002216324202517
+				661200688780541971
 			]
 		},
 		"transactions-channel": {
@@ -415,7 +415,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661197371421753344
+				661200770137325589
 			]
 		},
 		"voting-on-proposals": {
@@ -425,7 +425,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661197399947214865
+				661200798079909946
 			]
 		}
 	}

@@ -197,9 +197,22 @@
 			"message_id": 661035384842747948,
 			"votes": {
 				"271274710753476610": 1,
+				"309787486278909952": 1,
 				"474286909636476939": 1
 			},
 			"timestamp": 1577673517
+		},
+		{
+			"n": 15,
+			"author": 309787486278909952,
+			"content": "Append to rule 1.4.3. \"Punitive action\": \n\n> Additionally, the convicted player loses 5 points. If they have less than 5 points they lose as many as they have instead.",
+			"status": "voting",
+			"message_id": 661204275761905704,
+			"votes": {
+				"271274710753476610": 0,
+				"309787486278909952": 1
+			},
+			"timestamp": 1577713783
 		}
 	]
 }
