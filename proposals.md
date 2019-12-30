@@ -63,7 +63,7 @@ Create a rule section after "<#660555000296112128>" named "#transactions"
 
 <a name='8'/>
 
-## #8
+## #8 — Passed
 
 Overwrite the rule section "Quantities" with the following:
 > A quantity is a named property with a numerical value for each player.
