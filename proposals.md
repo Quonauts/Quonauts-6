@@ -56,7 +56,7 @@ Create a rule section after "Modifying proposals" named "Disallowed in proposals
 
 <a name='7'/>
 
-## #7
+## #7 — Passed
 
 Create a rule section after "<#660555000296112128>" named "#transactions"
 > The #transactions channel may be used to modify quantities, but only as the game rules allow quantities to be changed.
