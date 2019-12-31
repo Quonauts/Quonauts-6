@@ -253,18 +253,15 @@ A player may change their vote on an open proposal at any time.
 
 Any player may close an open proposal if one or more of the following conditions is met:
 
-• The proposal is at least 48 hours (2 days) old.
-• All active players have cast a vote on the proposal.
-• A majority of active players have voted in favor of the proposal.
-• A majority of active players have voted against the proposal.
-
-The player that authored a proposal may fail or delete it at any time.
-
-When a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability.
+* The proposal is at least 48 hours (2 days) old.
+* All active players have cast a vote on the proposal.
+* A majority of active players have voted in favor of the proposal.
+* A majority of active players have voted against the proposal.
 
 The player passing the proposal may choose to add or remove whitespace and fix typos or grammar mistakes as needed so long as the meaning of the proposal remains unchanged. Clarifications or additional details should always be added by means of a new proposal.
 
 When a proposal is closed, if the proposal has passed then the author of the proposal gains 2 points.
+
 When a proposal is closed and has been FULLY passed (i.e the player has updated the <#660455454429937713> channel if needed, or done whatever action is required to the best of their ability) then the player who passed the proposal gains 1 point.
 
 #### <a name='passing-and-failing-proposals'/> Passing and failing proposals
