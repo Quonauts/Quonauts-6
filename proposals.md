@@ -83,7 +83,7 @@ Overwrite the rule section "Quantities" with the following:
 
 <a name='9'/>
 
-## #9
+## #9 — Passed
 
 This proposal depends on proposal #8.
 Append the following to the rule section "Closing Proposals":
