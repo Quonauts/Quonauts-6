@@ -272,9 +272,7 @@ A player may edit a proposal they have submitted if that proposal is open for vo
 
 ### <a name='disallowed-in-proposals'/> Disallowed in proposals
 
-Proposals may not give any players any more power than others. An exception to this rule is the Rule Offender role, and any power gained via some form of quantity.
-
-Power here is defined as the abillity to do some game action, or having more abillity to do some game action than others, or being able to win the game. (e.g "Sinthorion wins the game." breaks this rule, but "Any player with 1000000 moon cheese or more wins the game." does not.)
+Proposals may not create an unfair advantage for minorities based on Out of Game Information. Wether this has occurred can be determined through a formal poll, and the effects will be undone as necessary.
 
 ## <a name='polls'/> Polls
 
