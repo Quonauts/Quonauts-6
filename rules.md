@@ -39,6 +39,7 @@
 * [**6. Polls**](#polls)
 * [**7. Quantities**](#quantities)
 * [**8. End of the game**](#end)
+* [**9. Out of game information**](#out-of-game-info)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -303,4 +304,10 @@ The following quantities exist:
 ## <a name='end'/> End of the game
 
 The game does not end.
+
+## <a name='out-of-game-info'/> Out of game information
+
+Out of game information is any information that exists outside of the confines and variables of the game. This information includes but is not limited to:
+The player’s username, presence on the internet, and messages in other channels or servers.
+Some examples of In Game Information are the players votes, player’s quantities, proposals, or messages sent in the Quonauts 6 category.
 
