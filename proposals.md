@@ -36,7 +36,7 @@ Create rule #9, named “Out of Game Information”
 
 <a name='5'/>
 
-## #5
+## #5 — Passed
 
 Append the following to rule 5.3:
 
