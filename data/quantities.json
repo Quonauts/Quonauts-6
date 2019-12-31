@@ -1,1 +1,10 @@
-{}
+{
+	"point": {
+		"name": "point",
+		"aliases": [],
+		"players": {
+			"160279332454006795": 3
+		},
+		"default_value": 0
+	}
+}
