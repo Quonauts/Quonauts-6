@@ -44,7 +44,7 @@ Append the following to rule 5.3:
 
 <a name='6'/>
 
-## #6
+## #6 — Failed
 
 Alternative to proposal #3, the purpose of this proposal is to ensure more freedom while protecting minorities from unfair majority rulings.
 
