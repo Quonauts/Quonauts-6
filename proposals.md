@@ -149,11 +149,7 @@ Create another rule, number x.3, named “Restrictions” with the following con
 
 <a name='15'/>
 
-## #15
-
-Append to rule 1.4.3. "Punitive action": 
-
-> Additionally, the convicted player loses 5 points. If they have less than 5 points they lose as many as they have instead.
+## #15 — Deleted
 
 <a name='16'/>
 
