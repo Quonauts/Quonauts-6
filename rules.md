@@ -33,9 +33,9 @@
         * [**5.1.2. Dependency resolution**](#dependency-resolution)
     * [**5.2. Voting on proposals**](#voting-on-proposals)
     * [**5.3. Closing proposals**](#closing-proposals)
-    * [**5.4. Passing and failing proposals**](#passing-and-failing-proposals)
-    * [**5.5. Modifying proposals**](#modifying-proposals)
-    * [**5.6. Disallowed in proposals**](#disallowed-in-proposals)
+        * [**5.3.1. Passing and failing proposals**](#passing-and-failing-proposals)
+    * [**5.4. Modifying proposals**](#modifying-proposals)
+    * [**5.5. Disallowed in proposals**](#disallowed-in-proposals)
 * [**6. Polls**](#polls)
 * [**7. Quantities**](#quantities)
 * [**8. End of the game**](#end)
@@ -267,7 +267,7 @@ The player passing the proposal may choose to add or remove whitespace and fix t
 When a proposal is closed, if the proposal has passed then the author of the proposal gains 2 points.
 When a proposal is closed and has been FULLY passed (i.e the player has updated the <#660455454429937713> channel if needed, or done whatever action is required to the best of their ability) then the player who passed the proposal gains 1 point.
 
-### <a name='passing-and-failing-proposals'/> Passing and failing proposals
+#### <a name='passing-and-failing-proposals'/> Passing and failing proposals
 
 When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.
 
