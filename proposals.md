@@ -157,3 +157,12 @@ Create another rule, number x.3, named “Restrictions” with the following con
 
 Change the "quantities" rule section, renaming "Points" to "Blue Points" and creating a new quantity named "Red Points", and stating that all usage of "points" refers to "Blue Points" unless otherwise specified.
 
+<a name='17'/>
+
+## #17
+
+Add a new rule named "Multicoloured points".
+> Players may, at any time, create any currency following the name pattern xxx-xxx-xxx-points.
+> xxx-xxx-xxx must correspond to 3 positive integers between 0 and 255 inclusive.
+> 255-000-000 points are identical to the currency Red Points, and thus should not be created.
+
