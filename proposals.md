@@ -166,3 +166,11 @@ Add a new rule named "Multicoloured points".
 > xxx-xxx-xxx must correspond to 3 positive integers between 0 and 255 inclusive.
 > 255-000-000 points are identical to the currency Red Points, and thus should not be created.
 
+<a name='18'/>
+
+## #18
+
+This proposal depends on proposal #17.
+Add a new rule named "Values of coloured points".
+> The value of any given point colour is equal to `((r+g+b)/3)/255` 255-255-255-points(effectively, the brighter the currency, the higher the value). 000-000-000-points, however, are worth `sin(h)+1.1` 255-255-255-points where h is the current hour in UTC+x, where x is the last 2 digits of the current year in UTC. If transferring from one currency to another, the points added to the latter are equal to` points-deducted-from-former*(former_value/latter_value)`.
+
