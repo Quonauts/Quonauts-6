@@ -222,7 +222,9 @@
 			"content": "Change the \"quantities\" rule section, renaming \"Points\" to \"Blue Points\" and creating a new quantity named \"Red Points\", and stating that all usage of \"points\" refers to \"Blue Points\" unless otherwise specified.",
 			"status": "voting",
 			"message_id": 661341619349356574,
-			"votes": {},
+			"votes": {
+				"271274710753476610": 0
+			},
 			"timestamp": 1577746528
 		}
 	]
