@@ -156,7 +156,7 @@
 			"n": 11,
 			"author": 330678593904443393,
 			"content": "Append to rule 1.4.3:\n> Additionally, the offending player loses 5 points. If they have less than 5 points left, they lose as many as they have instead.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 660778223487156225,
 			"votes": {
 				"309787486278909952": 1,
@@ -168,7 +168,7 @@
 			"n": 12,
 			"author": 309787486278909952,
 			"content": "Trying to clean up the initial ruleset a bit\n\nMove rule 5.4 \"Passing and failing proposals\" to rule 5.3.1 (subsection of 5.3 \"Closing proposals\"), and append the following:\n\n> The player that authored a proposal may fail or delete it at any time.\n> \n> When a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability.\n\nRemove from rule 5.3:\n\n> The player that authored a proposal may fail or delete it at any time.\n> \n> When a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 660808900462903328,
 			"votes": {
 				"160279332454006795": 0,
@@ -206,7 +206,7 @@
 			"n": 15,
 			"author": 309787486278909952,
 			"content": "Append to rule 1.4.3. \"Punitive action\": \n\n> Additionally, the convicted player loses 5 points. If they have less than 5 points they lose as many as they have instead.",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 661204275761905704,
 			"votes": {
 				"160279332454006795": 1,
@@ -225,6 +225,7 @@
 			"votes": {
 				"160279332454006795": 1,
 				"271274710753476610": 0,
+				"309787486278909952": 0,
 				"330678593904443393": -1
 			},
 			"timestamp": 1577746528
