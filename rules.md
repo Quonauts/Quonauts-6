@@ -99,6 +99,8 @@ Any vote in such a poll cast by the convicted player is not counted.
 
 If a punitive action poll passes, then the convicted player gains one strike.
 
+Additionally, the offending player loses 5 points. If they have less than 5 points left, they lose as many as they have instead.
+
 ### <a name='timezones'/> Timezones
 
 Unless otherwise specified, all times and dates are specified with respect to UTC.
