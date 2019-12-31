@@ -99,7 +99,7 @@ Append the following to the rule section "<#660455405738262549>":
 
 <a name='11'/>
 
-## #11
+## #11 — Passed
 
 Append to rule 1.4.3:
 > Additionally, the offending player loses 5 points. If they have less than 5 points left, they lose as many as they have instead.
