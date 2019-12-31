@@ -24,7 +24,7 @@ Create a rule section after "Modifying proposals" named "Disallowed in proposals
 
 <a name='4'/>
 
-## #4
+## #4 — Passed
 
 Out of Game Information
 
