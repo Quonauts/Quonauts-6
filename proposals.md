@@ -92,7 +92,7 @@ Append the following to the rule section "Closing Proposals":
 
 <a name='10'/>
 
-## #10
+## #10 — Failed
 
 Append the following to the rule section "<#660455405738262549>":
 > If a message stating "i win" is present in the <#660455405738262549> channel, the author is the winner of the game.
