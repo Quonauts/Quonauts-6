@@ -106,7 +106,7 @@ Append to rule 1.4.3:
 
 <a name='12'/>
 
-## #12
+## #12 — Passed
 
 Trying to clean up the initial ruleset a bit
 
