@@ -218,3 +218,13 @@ In my opinion if the point has two equal highest valued numbers the dominant col
 Example:
 (0,255,255) -> red
 
+<a name='23'/>
+
+## #23
+
+(This rule is why I wrote the whole dominant color thing)
+
+Add the following text to the end of rule 10.3:
+
+Players may not move into a position owned by another player unless they have more points of at least two dominant colors than that player, in which case they may move into the other player's claimed position.
+
