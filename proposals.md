@@ -159,7 +159,7 @@ Change the "quantities" rule section, renaming "Points" to "Blue Points" and cre
 
 <a name='17'/>
 
-## #17
+## #17 — Passed
 
 Add a new rule named "Multicoloured points".
 > Players may, at any time, create any currency following the name pattern xxx-xxx-xxx-points.
