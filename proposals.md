@@ -128,7 +128,7 @@ Remove from rule 5.3:
 
 <a name='14'/>
 
-## #14
+## #14 — Passed
 
 Create a new rule at the end of the ruleset (the rule number assigned to this rule will henceforth be referred to as `x`) named “Space”, with the following content:
 
