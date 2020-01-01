@@ -168,7 +168,7 @@ Add a new rule named "Multicoloured points".
 
 <a name='18'/>
 
-## #18
+## #18 — Passed
 
 This proposal depends on proposal #17.
 Add a new rule named "Values of coloured points".
