@@ -210,3 +210,11 @@ Add a new rule dependent on proposal #18 named "Dominant Color" with the followi
 > 
 > The highest number in their value (ex. `200` in `200-69-42-points`) becomes the dominant color. If the point has multiple equal highest valued numbers, the dominant color defaults to the number furthest left in the notation (ex. `8, 255, 255` has a dominant color of Green (or the second number))
 
+<a name='22'/>
+
+## #22
+
+In my opinion if the point has two equal highest valued numbers the dominant color is the one that is lower. This eliminates bias towards the red side. And if the numbers are all equal there is no dominant color.
+Example:
+(0,255,255) -> red
+
