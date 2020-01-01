@@ -41,6 +41,7 @@
 * [**8. End of the game**](#end)
 * [**9. Out of game information**](#out-of-game-info)
 * [**10. Space**](#space)
+    * [**10.1. Centre**](#centre)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -323,4 +324,8 @@ Some examples of In Game Information are the players votes, player’s quantitie
 ## <a name='space'/> Space
 
 “Space” is a Tensor of order 3 (a 3 dimensional array). All players have a position in space, a set of 3 integers which denote the position in 3D space, which can be written with the following notation: `[x,y,z]`.
+
+### <a name='centre'/> Centre
+
+All player’s positions are initialized at [0,0,0], which can also be referred to as the “center”
 
