@@ -8,7 +8,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661535526741868565
+				661906536683012096
 			]
 		},
 		"activity": {
@@ -18,7 +18,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661535638407086081
+				661906641368645632
 			]
 		},
 		"bots": {
@@ -28,7 +28,17 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661535558631424020
+				661906564718002176
+			]
+		},
+		"centre": {
+			"tag": "centre",
+			"title": "Centre",
+			"content": "All player\u2019s positions are initialized at [0,0,0], which can also be referred to as the \u201ccenter\u201d",
+			"parent_tag": "space",
+			"child_tags": [],
+			"message_ids": [
+				661906721803075616
 			]
 		},
 		"channels": {
@@ -44,7 +54,7 @@
 				"transactions-channel"
 			],
 			"message_ids": [
-				661535606429712384
+				661906613472329758
 			]
 		},
 		"closing-proposals": {
@@ -56,7 +66,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				661535685831950387
+				661906692300079114
 			]
 		},
 		"conflict-resolution": {
@@ -66,7 +76,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				661535662520008704
+				661906664588574730
 			]
 		},
 		"content": {
@@ -76,7 +86,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				661535581204905994
+				661906587761246237
 			]
 		},
 		"dependency-resolution": {
@@ -86,7 +96,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				661535663455469569
+				661906664995160136
 			]
 		},
 		"disallowed-by-default": {
@@ -96,7 +106,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661535528478310409
+				661906538159669279
 			]
 		},
 		"disallowed-in-proposals": {
@@ -106,7 +116,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661535688608448512
+				661906694452019231
 			]
 		},
 		"end": {
@@ -116,7 +126,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661535711857475588
+				661906718447501312
 			]
 		},
 		"errors": {
@@ -126,7 +136,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				661535555074654221
+				661906561270153231
 			]
 		},
 		"formatting": {
@@ -136,7 +146,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				661535583776145428
+				661906590613372936
 			]
 		},
 		"general": {
@@ -146,7 +156,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661535607247470642
+				661906614210658324
 			]
 		},
 		"glossary": {
@@ -156,7 +166,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661535605720612874
+				661906612427948034
 			]
 		},
 		"headers-and-tags": {
@@ -166,7 +176,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				661535582052417546
+				661906588822667264
 			]
 		},
 		"lists": {
@@ -176,7 +186,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				661535582672912387
+				661906589749477377
 			]
 		},
 		"meta-rules": {
@@ -195,7 +205,7 @@
 				"glossary"
 			],
 			"message_ids": [
-				661535526192676880
+				661906535978631178
 			]
 		},
 		"modifying-proposals": {
@@ -205,7 +215,17 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661535687769849856
+				661906693705302019
+			]
+		},
+		"movement": {
+			"tag": "movement",
+			"title": "Movement",
+			"content": "Once every 23 hours (in other words, as long as the player has not moved in the last 23 hours) a player may modify their personal position in space by +1 or -1 in all or some of the axis\u2019. (ex. [2,3,-1] > [2,2,0] is valid).",
+			"parent_tag": "space",
+			"child_tags": [],
+			"message_ids": [
+				661906743575445505
 			]
 		},
 		"out-of-game-info": {
@@ -215,7 +235,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661535712771833856
+				661906719227641866
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -225,7 +245,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				661535686893109261
+				661906692912709633
 			]
 		},
 		"polls": {
@@ -235,7 +255,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661535688952512533
+				661906695488012295
 			]
 		},
 		"polls-channel": {
@@ -245,7 +265,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661535634774687754
+				661906638311129099
 			]
 		},
 		"precedence": {
@@ -255,7 +275,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661535527941701662
+				661906537698164736
 			]
 		},
 		"proposal-content": {
@@ -268,7 +288,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				661535660804407314
+				661906663833468958
 			]
 		},
 		"proposals": {
@@ -284,7 +304,7 @@
 				"disallowed-in-proposals"
 			],
 			"message_ids": [
-				661535660234244106
+				661906663069974538
 			]
 		},
 		"proposals-channel": {
@@ -294,7 +314,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661535608698699777
+				661906616169398282
 			]
 		},
 		"punitive-action": {
@@ -304,7 +324,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				661535556869685258
+				661906563115646981
 			]
 		},
 		"quantities": {
@@ -314,7 +334,17 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661535711052431390
+				661906717675618314
+			]
+		},
+		"restrictions": {
+			"tag": "restrictions",
+			"title": "Restrictions",
+			"content": "halfArea is equal to 3.\nPositions on any of three axis must be between negative halfArea and positive halfArea. An axis of a position may not be changed in a way that is not allowed by this rule.",
+			"parent_tag": "space",
+			"child_tags": [],
+			"message_ids": [
+				661906744284282883
 			]
 		},
 		"roles": {
@@ -326,7 +356,7 @@
 				"rule-offender"
 			],
 			"message_ids": [
-				661535636641153050
+				661906639980593178
 			]
 		},
 		"root": {
@@ -343,12 +373,13 @@
 				"polls",
 				"quantities",
 				"end",
-				"out-of-game-info"
+				"out-of-game-info",
+				"space"
 			],
 			"message_ids": [
-				661535713615151114,
-				661535714344828939,
-				661535736369119252
+				661906745496436736,
+				661906746406600705,
+				661906746960248834
 			]
 		},
 		"rule-offender": {
@@ -358,7 +389,7 @@
 			"parent_tag": "roles",
 			"child_tags": [],
 			"message_ids": [
-				661535637605974017
+				661906640668327966
 			]
 		},
 		"rule-violation-polls": {
@@ -368,7 +399,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				661535555900801025
+				661906562213871617
 			]
 		},
 		"rule-violations": {
@@ -382,7 +413,7 @@
 				"punitive-action"
 			],
 			"message_ids": [
-				661535533285113856
+				661906539329617920
 			]
 		},
 		"rules": {
@@ -392,7 +423,21 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661535607981342730
+				661906615053844480
+			]
+		},
+		"space": {
+			"tag": "space",
+			"title": "Space",
+			"content": "\u201cSpace\u201d is a Tensor of order 3 (a 3 dimensional array). All players have a position in space, a set of 3 integers which denote the position in 3D space, which can be written with the following notation: `[x,y,z]`.",
+			"parent_tag": "root",
+			"child_tags": [
+				"centre",
+				"movement",
+				"restrictions"
+			],
+			"message_ids": [
+				661906719550603301
 			]
 		},
 		"style-conventions": {
@@ -407,7 +452,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				661535580315975691
+				661906586750550026
 			]
 		},
 		"timezones": {
@@ -417,7 +462,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661535557637111820
+				661906564004708362
 			]
 		},
 		"transactions-channel": {
@@ -427,7 +472,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661535635504365568
+				661906639057584128
 			]
 		},
 		"voting-on-proposals": {
@@ -437,7 +482,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661535664004923403
+				661906666253713418
 			]
 		}
 	}
