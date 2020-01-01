@@ -196,3 +196,17 @@ Additionally, add a new rule, #2.6, named "#position-claims", with the following
 
 > When a player claims any position in space, the claim should be logged clearly and concisely in this channel.
 
+<a name='21'/>
+
+## #21
+
+Append the following text to the end of the rule created by proposal #17:
+
+> The 3 positive integers may be referred to respectively as "Red", "Green" and "Blue".
+
+Add a new rule dependent on proposal #18 named "Dominant Color" with the following content:
+
+> All points have a dominant color and may be manipulated based on their dominant color in some situations.
+> 
+> The highest number in their value (ex. `200` in `200-69-42-points`) becomes the dominant color. If the point has multiple equal highest valued numbers, the dominant color defaults to the number furthest left in the notation (ex. `8, 255, 255` has a dominant color of Green (or the second number))
+
