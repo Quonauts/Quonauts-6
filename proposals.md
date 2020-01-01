@@ -176,7 +176,7 @@ Add a new rule named "Values of coloured points".
 
 <a name='19'/>
 
-## #19
+## #19 — Passed
 
 As a New Year gift, every player receives one point!
 
