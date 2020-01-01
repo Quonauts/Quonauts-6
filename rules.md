@@ -44,6 +44,7 @@
     * [**10.1. Centre**](#centre)
     * [**10.2. Movement**](#movement)
     * [**10.3. Restrictions**](#restrictions)
+* [**11. Multicoloured points**](#multicolored-points)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -339,4 +340,10 @@ Once every 23 hours (in other words, as long as the player has not moved in the 
 
 halfArea is equal to 3.
 Positions on any of three axis must be between negative halfArea and positive halfArea. An axis of a position may not be changed in a way that is not allowed by this rule.
+
+## <a name='multicolored-points'/> Multicoloured points
+
+Players may, at any time, create any currency following the name pattern xxx-xxx-xxx-points.
+xxx-xxx-xxx must correspond to 3 positive integers between 0 and 255 inclusive.
+255-000-000 points are identical to the currency Red Points, and thus should not be created.
 
