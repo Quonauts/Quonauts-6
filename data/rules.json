@@ -8,7 +8,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661906536683012096
+				661996611320283176
 			]
 		},
 		"activity": {
@@ -18,7 +18,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661906641368645632
+				661996716987514889
 			]
 		},
 		"bots": {
@@ -28,7 +28,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661906564718002176
+				661996640772685854
 			]
 		},
 		"centre": {
@@ -38,7 +38,7 @@
 			"parent_tag": "space",
 			"child_tags": [],
 			"message_ids": [
-				661906721803075616
+				661996793986547732
 			]
 		},
 		"channels": {
@@ -54,7 +54,7 @@
 				"transactions-channel"
 			],
 			"message_ids": [
-				661906613472329758
+				661996688545677322
 			]
 		},
 		"closing-proposals": {
@@ -66,7 +66,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				661906692300079114
+				661996764408053760
 			]
 		},
 		"conflict-resolution": {
@@ -76,7 +76,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				661906664588574730
+				661996740722819072
 			]
 		},
 		"content": {
@@ -86,7 +86,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				661906587761246237
+				661996663065411626
 			]
 		},
 		"dependency-resolution": {
@@ -96,7 +96,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				661906664995160136
+				661996741423530030
 			]
 		},
 		"disallowed-by-default": {
@@ -106,7 +106,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661906538159669279
+				661996613421498379
 			]
 		},
 		"disallowed-in-proposals": {
@@ -116,7 +116,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661906694452019231
+				661996766849400832
 			]
 		},
 		"end": {
@@ -126,7 +126,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661906718447501312
+				661996790668591136
 			]
 		},
 		"errors": {
@@ -136,7 +136,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				661906561270153231
+				661996636993749056
 			]
 		},
 		"formatting": {
@@ -146,7 +146,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				661906590613372936
+				661996665787383848
 			]
 		},
 		"general": {
@@ -156,7 +156,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661906614210658324
+				661996689321885747
 			]
 		},
 		"glossary": {
@@ -166,7 +166,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661906612427948034
+				661996687530917890
 			]
 		},
 		"headers-and-tags": {
@@ -176,7 +176,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				661906588822667264
+				661996664235753483
 			]
 		},
 		"lists": {
@@ -186,7 +186,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				661906589749477377
+				661996665041059860
 			]
 		},
 		"meta-rules": {
@@ -205,7 +205,7 @@
 				"glossary"
 			],
 			"message_ids": [
-				661906535978631178
+				661996610510651442
 			]
 		},
 		"modifying-proposals": {
@@ -215,7 +215,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661906693705302019
+				661996766140432404
 			]
 		},
 		"movement": {
@@ -225,7 +225,29 @@
 			"parent_tag": "space",
 			"child_tags": [],
 			"message_ids": [
-				661906743575445505
+				661996811770265620
+			]
+		},
+		"multicolored-points": {
+			"tag": "multicolored-points",
+			"title": "Multicoloured points",
+			"content": "Players may, at any time, create any currency following the name pattern xxx-xxx-xxx-points.\nxxx-xxx-xxx must correspond to 3 positive integers between 0 and 255 inclusive.\n255-000-000 points are identical to the currency Red Points, and thus should not be created.",
+			"parent_tag": "root",
+			"child_tags": [
+				"multicolored-values"
+			],
+			"message_ids": [
+				661996813330546698
+			]
+		},
+		"multicolored-values": {
+			"tag": "multicolored-values",
+			"title": "Values of coloured points",
+			"content": "The value of any given point colour is equal to `((r+g+b)/3)/255` 255-255-255-points(effectively, the brighter the currency, the higher the value). 000-000-000-points, however, are worth `sin(h)+1.1` 255-255-255-points where h is the current hour in UTC+x, where x is the last 2 digits of the current year in UTC. If transferring from one currency to another, the points added to the latter are equal to `points-deducted-from-former*(former_value/latter_value)`.",
+			"parent_tag": "multicolored-points",
+			"child_tags": [],
+			"message_ids": [
+				661996814022737961
 			]
 		},
 		"out-of-game-info": {
@@ -235,7 +257,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661906719227641866
+				661996791725686791
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -245,7 +267,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				661906692912709633
+				661996765360422937
 			]
 		},
 		"polls": {
@@ -255,7 +277,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661906695488012295
+				661996768036126724
 			]
 		},
 		"polls-channel": {
@@ -265,7 +287,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661906638311129099
+				661996713522757632
 			]
 		},
 		"precedence": {
@@ -275,7 +297,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661906537698164736
+				661996611890577426
 			]
 		},
 		"proposal-content": {
@@ -288,7 +310,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				661906663833468958
+				661996740005593101
 			]
 		},
 		"proposals": {
@@ -304,7 +326,7 @@
 				"disallowed-in-proposals"
 			],
 			"message_ids": [
-				661906663069974538
+				661996739015868451
 			]
 		},
 		"proposals-channel": {
@@ -314,7 +336,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661906616169398282
+				661996691808976931
 			]
 		},
 		"punitive-action": {
@@ -324,7 +346,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				661906563115646981
+				661996639149359104
 			]
 		},
 		"quantities": {
@@ -334,7 +356,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				661906717675618314
+				661996789825536040
 			]
 		},
 		"restrictions": {
@@ -344,7 +366,7 @@
 			"parent_tag": "space",
 			"child_tags": [],
 			"message_ids": [
-				661906744284282883
+				661996812361793537
 			]
 		},
 		"roles": {
@@ -356,7 +378,7 @@
 				"rule-offender"
 			],
 			"message_ids": [
-				661906639980593178
+				661996714995089408
 			]
 		},
 		"root": {
@@ -374,12 +396,13 @@
 				"quantities",
 				"end",
 				"out-of-game-info",
-				"space"
+				"space",
+				"multicolored-points"
 			],
 			"message_ids": [
-				661906745496436736,
-				661906746406600705,
-				661906746960248834
+				661996814932770816,
+				661996837888327680,
+				661996838982778891
 			]
 		},
 		"rule-offender": {
@@ -389,7 +412,7 @@
 			"parent_tag": "roles",
 			"child_tags": [],
 			"message_ids": [
-				661906640668327966
+				661996715867504641
 			]
 		},
 		"rule-violation-polls": {
@@ -399,7 +422,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				661906562213871617
+				661996638428069889
 			]
 		},
 		"rule-violations": {
@@ -413,7 +436,7 @@
 				"punitive-action"
 			],
 			"message_ids": [
-				661906539329617920
+				661996614445039638
 			]
 		},
 		"rules": {
@@ -423,7 +446,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661906615053844480
+				661996691007733790
 			]
 		},
 		"space": {
@@ -437,7 +460,7 @@
 				"restrictions"
 			],
 			"message_ids": [
-				661906719550603301
+				661996792736514059
 			]
 		},
 		"style-conventions": {
@@ -452,7 +475,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				661906586750550026
+				661996662277013536
 			]
 		},
 		"timezones": {
@@ -462,7 +485,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				661906564004708362
+				661996639740756019
 			]
 		},
 		"transactions-channel": {
@@ -472,7 +495,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				661906639057584128
+				661996714261217290
 			]
 		},
 		"voting-on-proposals": {
@@ -482,7 +505,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				661906666253713418
+				661996742492946442
 			]
 		}
 	}
