@@ -43,6 +43,7 @@
 * [**10. Space**](#space)
     * [**10.1. Centre**](#centre)
     * [**10.2. Movement**](#movement)
+    * [**10.3. Restrictions**](#restrictions)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -333,4 +334,9 @@ All player’s positions are initialized at [0,0,0], which can also be referred 
 ### <a name='movement'/> Movement
 
 Once every 23 hours (in other words, as long as the player has not moved in the last 23 hours) a player may modify their personal position in space by +1 or -1 in all or some of the axis’. (ex. [2,3,-1] > [2,2,0] is valid).
+
+### <a name='restrictions'/> Restrictions
+
+halfArea is equal to 3.
+Positions on any of three axis must be between negative halfArea and positive halfArea. An axis of a position may not be changed in a way that is not allowed by this rule.
 
