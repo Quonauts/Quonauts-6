@@ -42,6 +42,7 @@
 * [**9. Out of game information**](#out-of-game-info)
 * [**10. Space**](#space)
     * [**10.1. Centre**](#centre)
+    * [**10.2. Movement**](#movement)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -328,4 +329,8 @@ Some examples of In Game Information are the players votes, player’s quantitie
 ### <a name='centre'/> Centre
 
 All player’s positions are initialized at [0,0,0], which can also be referred to as the “center”
+
+### <a name='movement'/> Movement
+
+Once every 23 hours (in other words, as long as the player has not moved in the last 23 hours) a player may modify their personal position in space by +1 or -1 in all or some of the axis’. (ex. [2,3,-1] > [2,2,0] is valid).
 
