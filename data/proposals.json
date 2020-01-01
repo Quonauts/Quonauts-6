@@ -321,6 +321,17 @@
 				"427589146295664667": 1
 			},
 			"timestamp": 1577894153
+		},
+		{
+			"n": 23,
+			"author": 271274710753476610,
+			"content": "(This rule is why I wrote the whole dominant color thing)\n\nAdd the following text to the end of rule 10.3:\n\nPlayers may not move into a position owned by another player unless they have more points of at least two dominant colors than that player, in which case they may move into the other player's claimed position.",
+			"status": "voting",
+			"message_id": 661962604192858142,
+			"votes": {
+				"160279332454006795": 0
+			},
+			"timestamp": 1577894583
 		}
 	]
 }
