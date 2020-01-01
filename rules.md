@@ -40,6 +40,7 @@
 * [**7. Quantities**](#quantities)
 * [**8. End of the game**](#end)
 * [**9. Out of game information**](#out-of-game-info)
+* [**10. Space**](#space)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -318,4 +319,8 @@ The game does not end.
 Out of game information is any information that exists outside of the confines and variables of the game. This information includes but is not limited to:
 The player’s username, presence on the internet, and messages in other channels or servers.
 Some examples of In Game Information are the players votes, player’s quantities, proposals, or messages sent in the Quonauts 6 category.
+
+## <a name='space'/> Space
+
+“Space” is a Tensor of order 3 (a 3 dimensional array). All players have a position in space, a set of 3 integers which denote the position in 3D space, which can be written with the following notation: `[x,y,z]`.
 
