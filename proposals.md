@@ -180,3 +180,19 @@ Add a new rule named "Values of coloured points".
 
 As a New Year gift, every player receives one point!
 
+<a name='20'/>
+
+## #20
+
+Create a new rule #10.4 named “Claiming Space”, with the following content:
+
+> "Claiming" is an event in which a certain position in space becomes the property of a specific player. Claiming may occur in multiple ways.
+
+Create rule #10.4.1, named "Movement Claiming" with the following content:
+
+> When a player leaves a position in space to move into a new one, the position they were previously in becomes claimed by the player so long as it was not claimed before. Otherwise, they must pay 1 point to the previous owner of the position to claim it.
+
+Additionally, add a new rule, #2.6, named "#position-claims", with the following content:
+
+> When a player claims any position in space, the claim should be logged clearly and concisely in this channel.
+
