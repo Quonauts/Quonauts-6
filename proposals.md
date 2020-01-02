@@ -243,3 +243,12 @@ If the point has two equal highest valued numbers the dominant color is the one 
 Example:
 (0,255,255) -> red
 
+<a name='26'/>
+
+## #26
+
+In the rule created by proposal 17, change
+> Players may, at any time, create any currency following the name pattern xxx-xxx-xxx-points.
+to
+> Players may, at any time, _propose the creation of_ any currency following the name pattern xxx-xxx-xxx-points.
+
