@@ -153,7 +153,7 @@ Create another rule, number x.3, named “Restrictions” with the following con
 
 <a name='16'/>
 
-## #16
+## #16 — Failed
 
 Change the "quantities" rule section, renaming "Points" to "Blue Points" and creating a new quantity named "Red Points", and stating that all usage of "points" refers to "Blue Points" unless otherwise specified.
 
