@@ -230,7 +230,7 @@ Players may not move into a position owned by another player unless they have mo
 
 <a name='24'/>
 
-## #24
+## #24 — Passed
 
 Remove the sentence `000-000-000-points, however, are worth sin(h)+1.1 255-255-255-points where h is the current hour in UTC+x, where x is the last 2 digits of the current year in UTC.` from rule 11.1 %multicolored-values. It is overly complicated, and the meaning of "UTC+x" is not clear (as there are no such high UTC offsets irl). 000-000-000-points are worth 0 other multicolored points and therefore cannot be exchanged for them.
 
