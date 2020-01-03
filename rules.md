@@ -344,9 +344,7 @@ Positions on any of three axis must be between negative halfArea and positive ha
 
 ## <a name='multicolored-points'/> Multicoloured points
 
-Players may, at any time, create any currency following the name pattern xxx-xxx-xxx-points.
-xxx-xxx-xxx must correspond to 3 positive integers between 0 and 255 inclusive.
-255-000-000 points are identical to the currency Red Points, and thus should not be created.
+The 3 positive integers may be referred to respectively as "Red", "Green" and "Blue".
 
 ### <a name='multicolored-values'/> Values of coloured points
 
