@@ -46,6 +46,7 @@
     * [**10.3. Restrictions**](#restrictions)
 * [**11. Multicoloured points**](#multicolored-points)
     * [**11.1. Values of coloured points**](#multicolored-values)
+    * [**11.2. Dominant Colour**](#dominant-colour)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -349,4 +350,10 @@ The 3 positive integers may be referred to respectively as "Red", "Green" and "B
 ### <a name='multicolored-values'/> Values of coloured points
 
 The value of any given point colour is equal to `((r+g+b)/3)/255` 255-255-255-points(effectively, the brighter the currency, the higher the value). If transferring from one currency to another, the points added to the latter are equal to `points-deducted-from-former*(former_value/latter_value)`.
+
+### <a name='dominant-colour'/> Dominant Colour
+
+All points have a dominant color and may be manipulated based on their dominant color in some situations.
+
+The highest number in their value (ex. 200 in 200-69-42-points) becomes the dominant color. If the point has multiple equal highest valued numbers, the dominant color defaults to the number furthest left in the notation (ex. 8, 255, 255 has a dominant color of Green (or the second number)).
 
