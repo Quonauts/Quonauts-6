@@ -198,7 +198,7 @@ Additionally, add a new rule, #2.6, named "#position-claims", with the following
 
 <a name='21'/>
 
-## #21
+## #21 — Passed
 
 Append the following text to the end of the rule created by proposal #17:
 
