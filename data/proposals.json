@@ -286,7 +286,7 @@
 			"n": 20,
 			"author": 271274710753476610,
 			"content": "Create a new rule #10.4 named \u201cClaiming Space\u201d, with the following content:\n\n> \"Claiming\" is an event in which a certain position in space becomes the property of a specific player. Claiming may occur in multiple ways.\n\nCreate rule #10.4.1, named \"Movement Claiming\" with the following content:\n\n> When a player leaves a position in space to move into a new one, the position they were previously in becomes claimed by the player so long as it was not claimed before. Otherwise, they must pay 1 point to the previous owner of the position to claim it.\n\nAdditionally, add a new rule, #2.6, named \"#position-claims\", with the following content:\n\n> When a player claims any position in space, the claim should be logged clearly and concisely in this channel.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 661955660061081609,
 			"votes": {
 				"160279332454006795": -1,
@@ -300,7 +300,7 @@
 			"n": 21,
 			"author": 271274710753476610,
 			"content": "Append the following text to the end of the rule created by proposal #17:\n\n> The 3 positive integers may be referred to respectively as \"Red\", \"Green\" and \"Blue\".\n\nAdd a new rule dependent on proposal #18 named \"Dominant Color\" with the following content:\n\n> All points have a dominant color and may be manipulated based on their dominant color in some situations.\n> \n> The highest number in their value (ex. `200` in `200-69-42-points`) becomes the dominant color. If the point has multiple equal highest valued numbers, the dominant color defaults to the number furthest left in the notation (ex. `8, 255, 255` has a dominant color of Green (or the second number))",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 661960315855962142,
 			"votes": {
 				"160279332454006795": 1,
@@ -315,7 +315,7 @@
 			"n": 22,
 			"author": 427589146295664667,
 			"content": "In my opinion if the point has two equal highest valued numbers the dominant color is the one that is lower. This eliminates bias towards the red side. And if the numbers are all equal there is no dominant color.\nExample:\n(0,255,255) -> red",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 661960801787314206,
 			"votes": {
 				"160279332454006795": 1,
@@ -331,7 +331,7 @@
 			"n": 23,
 			"author": 271274710753476610,
 			"content": "(This rule is why I wrote the whole dominant color thing)\n\nAdd the following text to the end of rule 10.3:\n\nPlayers may not move into a position owned by another player unless they have more points of at least two dominant colors than that player, in which case they may move into the other player's claimed position.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 661962604192858142,
 			"votes": {
 				"160279332454006795": 0,
