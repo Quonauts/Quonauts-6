@@ -212,7 +212,7 @@ Add a new rule dependent on proposal #18 named "Dominant Color" with the followi
 
 <a name='22'/>
 
-## #22
+## #22 — Failed
 
 In my opinion if the point has two equal highest valued numbers the dominant color is the one that is lower. This eliminates bias towards the red side. And if the numbers are all equal there is no dominant color.
 Example:
