@@ -252,3 +252,10 @@ In the rule created by proposal 17, change
 to
 > Players may, at any time, _propose the creation of_ any currency following the name pattern xxx-xxx-xxx-points.
 
+<a name='27'/>
+
+## #27
+
+Append the following to "Values of coloured points":
+The "point" currency has the same value as 1 255-255-255 point.
+
