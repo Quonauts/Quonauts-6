@@ -220,7 +220,7 @@ Example:
 
 <a name='23'/>
 
-## #23
+## #23 — Failed
 
 (This rule is why I wrote the whole dominant color thing)
 
