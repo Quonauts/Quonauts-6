@@ -182,7 +182,7 @@ As a New Year gift, every player receives one point!
 
 <a name='20'/>
 
-## #20
+## #20 — Failed
 
 Create a new rule #10.4 named “Claiming Space”, with the following content:
 
