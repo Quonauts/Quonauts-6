@@ -1,4 +1,12 @@
 {
+	"51-51-51-point": {
+		"name": "51-51-51-point",
+		"aliases": [
+			"51-51-51-points"
+		],
+		"players": {},
+		"default_value": 0
+	},
 	"point": {
 		"name": "point",
 		"aliases": [
