@@ -259,3 +259,9 @@ to
 Append the following to "Values of coloured points":
 The "point" currency has the same value as 1 255-255-255 point.
 
+<a name='28'/>
+
+## #28
+
+** **
+
