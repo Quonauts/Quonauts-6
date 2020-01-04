@@ -271,3 +271,9 @@ The "point" currency has the same value as 1 255-255-255 point.
 
 Pass this proposal to get a free point!
 
+<a name='30'/>
+
+## #30
+
+Pass this proposal to get a free point!
+
