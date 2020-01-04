@@ -337,3 +337,9 @@ Remove _zM.
 
 _zM is to be removed from the game.
 
+<a name='41'/>
+
+## #41
+
+Retroactively pass every closed proposal with a lower number than 41.
+
