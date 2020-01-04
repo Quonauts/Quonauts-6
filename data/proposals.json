@@ -503,6 +503,18 @@
 				"427589146295664667": 1
 			},
 			"timestamp": 1578100475
+		},
+		{
+			"n": 36,
+			"author": 330678593904443393,
+			"content": "Give Heavpoot one strike for trying to spam pointless proposals to gain points",
+			"status": "voting",
+			"message_id": 662839042693529640,
+			"votes": {
+				"330678593904443393": 1,
+				"427589146295664667": -1
+			},
+			"timestamp": 1578103542
 		}
 	]
 }
