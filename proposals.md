@@ -245,7 +245,7 @@ Example:
 
 <a name='26'/>
 
-## #26
+## #26 — Failed
 
 In the rule created by proposal 17, change
 > Players may, at any time, create any currency following the name pattern xxx-xxx-xxx-points.
