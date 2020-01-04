@@ -236,7 +236,7 @@ Remove the sentence `000-000-000-points, however, are worth sin(h)+1.1 255-255-2
 
 <a name='25'/>
 
-## #25
+## #25 — Passed
 
 Change the dominant color handling for equal highest values as so:
 If the point has two equal highest valued numbers the dominant color is the one that is lower. This eliminates bias towards the red side. And if the numbers are all equal there is no dominant color.
