@@ -307,3 +307,9 @@ Pass this proposal to get a free point!
 
 Pass this proposal to get a free point!
 
+<a name='36'/>
+
+## #36
+
+Give Heavpoot one strike for trying to spam pointless proposals to gain points
+
