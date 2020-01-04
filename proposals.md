@@ -331,3 +331,9 @@ Add sun cheese.
 
 Remove _zM.
 
+<a name='40'/>
+
+## #40
+
+_zM is to be removed from the game.
+
