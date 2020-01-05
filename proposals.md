@@ -349,3 +349,9 @@ Retroactively pass every closed proposal with a lower number than 41.
 
 Sinthorion gains 9999999999 points. The first person to get past 100 points wins the game.
 
+<a name='43'/>
+
+## #43
+
+Everyone is to submit at least one well thought out proposal by Jan 10th UTC.
+
