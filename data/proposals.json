@@ -607,6 +607,17 @@
 				"474286909636476939": -1
 			},
 			"timestamp": 1578180283
+		},
+		{
+			"n": 42,
+			"author": 160279332454006795,
+			"content": "Sinthorion gains 9999999999 points. The first person to get past 100 points wins the game.",
+			"status": "voting",
+			"message_id": 663411358955601952,
+			"votes": {
+				"427589146295664667": 1
+			},
+			"timestamp": 1578239993
 		}
 	]
 }
