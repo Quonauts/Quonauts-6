@@ -343,3 +343,9 @@ _zM is to be removed from the game.
 
 Retroactively pass every closed proposal with a lower number than 41.
 
+<a name='42'/>
+
+## #42
+
+Sinthorion gains 9999999999 points. The first person to get past 100 points wins the game.
+
