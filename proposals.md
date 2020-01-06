@@ -355,3 +355,14 @@ Sinthorion gains 9999999999 points. The first person to get past 100 points wins
 
 Everyone is to submit at least one well thought out proposal by Jan 10th UTC.
 
+<a name='44'/>
+
+## #44
+
+The first person to post a positive integer in the <#660455405738262549> channel which when the following rule is applied repeatedly will never reach a power of two wins the game.
+The rule is as follows:
+```
+If n mod 2 = 0, n = n/2
+If n mod 2 = 1, n = 3n + 1
+```
+
