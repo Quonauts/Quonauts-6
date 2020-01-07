@@ -404,7 +404,7 @@
 			"n": 28,
 			"author": 160279332454006795,
 			"content": "** **",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 662825952249905153,
 			"votes": {
 				"160279332454006795": 1,
@@ -419,7 +419,7 @@
 			"n": 29,
 			"author": 160279332454006795,
 			"content": "Pass this proposal to get a free point!",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 662826105564299294,
 			"votes": {
 				"160279332454006795": 1,
@@ -434,7 +434,7 @@
 			"n": 30,
 			"author": 160279332454006795,
 			"content": "Pass this proposal to get a free point!",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 662826124912492588,
 			"votes": {
 				"160279332454006795": 1,
@@ -449,7 +449,7 @@
 			"n": 31,
 			"author": 160279332454006795,
 			"content": "Pass this proposal to get a free point!",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 662826137910771724,
 			"votes": {
 				"160279332454006795": 1,
@@ -464,7 +464,7 @@
 			"n": 32,
 			"author": 160279332454006795,
 			"content": "Pass this proposal to get a free point!",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 662826150992674837,
 			"votes": {
 				"160279332454006795": 1,
@@ -479,7 +479,7 @@
 			"n": 33,
 			"author": 160279332454006795,
 			"content": "Pass this proposal to get a free point!",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 662826159448391712,
 			"votes": {
 				"160279332454006795": 1,
@@ -494,7 +494,7 @@
 			"n": 34,
 			"author": 160279332454006795,
 			"content": "Pass this proposal to get a free point!",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 662826168679923763,
 			"votes": {
 				"160279332454006795": 1,
@@ -509,7 +509,7 @@
 			"n": 35,
 			"author": 160279332454006795,
 			"content": "Pass this proposal to get a free point!",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 662826176967868419,
 			"votes": {
 				"160279332454006795": 1,
@@ -524,7 +524,7 @@
 			"n": 36,
 			"author": 330678593904443393,
 			"content": "Give Heavpoot one strike for trying to spam pointless proposals to gain points",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 662839042693529640,
 			"votes": {
 				"160279332454006795": -1,
@@ -539,7 +539,7 @@
 			"n": 37,
 			"author": 427589146295664667,
 			"content": "Add moon cheese. In order for 5.5 to work correctly we need moon cheese because 5.5 uses it as an example of what breaks 5.5.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 663020440892997642,
 			"votes": {
 				"160279332454006795": 1,
@@ -555,7 +555,7 @@
 			"n": 38,
 			"author": 160279332454006795,
 			"content": "Add sun cheese.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 663160404779991040,
 			"votes": {
 				"160279332454006795": 1,
@@ -572,7 +572,7 @@
 			"n": 39,
 			"author": 160279332454006795,
 			"content": "Remove _zM.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 663160579518889995,
 			"votes": {
 				"160279332454006795": 1,
@@ -586,7 +586,7 @@
 			"n": 40,
 			"author": 160279332454006795,
 			"content": "_zM is to be removed from the game.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 663160678604996613,
 			"votes": {
 				"160279332454006795": 1,
@@ -600,7 +600,7 @@
 			"n": 41,
 			"author": 160279332454006795,
 			"content": "Retroactively pass every closed proposal with a lower number than 41.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 663160918422585414,
 			"votes": {
 				"160279332454006795": 1,
@@ -614,7 +614,7 @@
 			"n": 42,
 			"author": 160279332454006795,
 			"content": "Sinthorion gains 9999999999 points. The first person to get past 100 points wins the game.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 663411358955601952,
 			"votes": {
 				"160279332454006795": 0,
@@ -629,7 +629,7 @@
 			"n": 43,
 			"author": 160279332454006795,
 			"content": "Everyone is to submit at least one well thought out proposal by Jan 10th UTC.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 663414136402870312,
 			"votes": {
 				"160279332454006795": 1,
