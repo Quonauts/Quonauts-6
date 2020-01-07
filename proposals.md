@@ -267,7 +267,7 @@ The "point" currency has the same value as 1 255-255-255 point.
 
 <a name='29'/>
 
-## #29
+## #29 — Failed
 
 Pass this proposal to get a free point!
 
