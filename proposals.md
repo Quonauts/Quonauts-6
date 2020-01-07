@@ -351,7 +351,7 @@ Sinthorion gains 9999999999 points. The first person to get past 100 points wins
 
 <a name='43'/>
 
-## #43
+## #43 — Failed
 
 Everyone is to submit at least one well thought out proposal by Jan 10th UTC.
 
