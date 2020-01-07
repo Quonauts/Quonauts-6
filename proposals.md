@@ -333,7 +333,7 @@ Remove _zM.
 
 <a name='40'/>
 
-## #40
+## #40 — Failed
 
 _zM is to be removed from the game.
 
