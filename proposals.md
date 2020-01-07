@@ -279,7 +279,7 @@ Pass this proposal to get a free point!
 
 <a name='31'/>
 
-## #31
+## #31 — Failed
 
 Pass this proposal to get a free point!
 
