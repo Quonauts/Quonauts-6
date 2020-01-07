@@ -315,7 +315,7 @@ Give Heavpoot one strike for trying to spam pointless proposals to gain points
 
 <a name='37'/>
 
-## #37
+## #37 — Failed
 
 Add moon cheese. In order for 5.5 to work correctly we need moon cheese because 5.5 uses it as an example of what breaks 5.5.
 
