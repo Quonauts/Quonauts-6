@@ -285,7 +285,7 @@ Pass this proposal to get a free point!
 
 <a name='32'/>
 
-## #32
+## #32 — Failed
 
 Pass this proposal to get a free point!
 
