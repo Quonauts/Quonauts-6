@@ -357,7 +357,7 @@ Everyone is to submit at least one well thought out proposal by Jan 10th UTC.
 
 <a name='44'/>
 
-## #44
+## #44 — Failed
 
 The first person to post a positive integer in the <#660455405738262549> channel which when the following rule is applied repeatedly will never reach a power of two wins the game.
 The rule is as follows:
