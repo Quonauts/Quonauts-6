@@ -651,6 +651,18 @@
 				"474286909636476939": -1
 			},
 			"timestamp": 1578342789
+		},
+		{
+			"n": 45,
+			"author": 474286909636476939,
+			"content": "Allow any player to give themselves any positive amount of points once a week. At the end of each week (defined as midnight between Sunday and Monday UTC), all of these transactions are reversed with the exception of the transaction which gave that player the lowest amount of points.",
+			"status": "voting",
+			"message_id": 665314482053971981,
+			"votes": {
+				"427589146295664667": 1,
+				"474286909636476939": 1
+			},
+			"timestamp": 1578693733
 		}
 	]
 }
