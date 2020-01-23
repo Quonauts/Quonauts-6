@@ -378,3 +378,9 @@ Allow any player to give themselves any positive amount of points once a week. A
 
 Yes
 
+<a name='47'/>
+
+## #47
+
+All active players win the game.
+
