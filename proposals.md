@@ -374,7 +374,7 @@ Allow any player to give themselves any positive amount of points once a week. A
 
 <a name='46'/>
 
-## #46
+## #46 — Failed
 
 Yes
 
