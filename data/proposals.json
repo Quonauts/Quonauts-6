@@ -655,7 +655,7 @@
 			"n": 45,
 			"author": 474286909636476939,
 			"content": "Allow any player to give themselves any positive amount of points once a week. At the end of each week (defined as midnight between Sunday and Monday UTC), all of these transactions are reversed with the exception of the transaction which gave that player the lowest amount of points.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 665314482053971981,
 			"votes": {
 				"160279332454006795": 1,
@@ -671,7 +671,7 @@
 			"n": 46,
 			"author": 160279332454006795,
 			"content": "Yes",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 665356437031223364,
 			"votes": {
 				"160279332454006795": 1,
@@ -681,6 +681,18 @@
 				"474286909636476939": -1
 			},
 			"timestamp": 1578703736
+		},
+		{
+			"n": 47,
+			"author": 364562317645709336,
+			"content": "All active players win the game.",
+			"status": "voting",
+			"message_id": 669898116828364800,
+			"votes": {
+				"364562317645709336": 1,
+				"474286909636476939": 1
+			},
+			"timestamp": 1579786556
 		}
 	]
 }
