@@ -368,7 +368,7 @@ If n mod 2 = 1, n = 3n + 1
 
 <a name='45'/>
 
-## #45
+## #45 — Passed
 
 Allow any player to give themselves any positive amount of points once a week. At the end of each week (defined as midnight between Sunday and Monday UTC), all of these transactions are reversed with the exception of the transaction which gave that player the lowest amount of points.
 
