@@ -689,11 +689,23 @@
 			"status": "voting",
 			"message_id": 669898116828364800,
 			"votes": {
+				"330678593904443393": 0,
 				"364562317645709336": 1,
 				"427589146295664667": 1,
 				"474286909636476939": 1
 			},
 			"timestamp": 1579786556
+		},
+		{
+			"n": 48,
+			"author": 330678593904443393,
+			"content": "All players who have voted against this proposal win the game.",
+			"status": "voting",
+			"message_id": 670151554010972161,
+			"votes": {
+				"330678593904443393": 1
+			},
+			"timestamp": 1579846981
 		}
 	]
 }
