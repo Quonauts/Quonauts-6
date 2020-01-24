@@ -384,3 +384,9 @@ Yes
 
 All active players win the game.
 
+<a name='48'/>
+
+## #48
+
+All players who have voted against this proposal win the game.
+
