@@ -392,7 +392,5 @@ All players who have voted against this proposal win the game.
 
 <a name='49'/>
 
-## #49
-
-Proposals 47 and 48 fail immediately.
+## #49 — Deleted
 
