@@ -380,7 +380,7 @@ Yes
 
 <a name='47'/>
 
-## #47
+## #47 — Passed
 
 All active players win the game.
 
