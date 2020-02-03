@@ -719,6 +719,17 @@
 			"message_id": 670249941662171156,
 			"votes": {},
 			"timestamp": 1579870438
+		},
+		{
+			"n": 50,
+			"author": 309787486278909952,
+			"content": "Since there are winners and there isn't much activity now...\n\nReplace rule section %end, \"End of the game\", with:\n```\nThe game ends when one or more players have won.\n```",
+			"status": "voting",
+			"message_id": 673920244221345859,
+			"votes": {
+				"309787486278909952": 0
+			},
+			"timestamp": 1580745506
 		}
 	]
 }
