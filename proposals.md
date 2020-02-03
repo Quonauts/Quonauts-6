@@ -394,3 +394,14 @@ All players who have voted against this proposal win the game.
 
 ## #49 — Deleted
 
+<a name='50'/>
+
+## #50
+
+Since there are winners and there isn't much activity now...
+
+Replace rule section %end, "End of the game", with:
+```
+The game ends when one or more players have won.
+```
+
