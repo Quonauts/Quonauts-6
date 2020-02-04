@@ -405,3 +405,11 @@ Replace rule section %end, "End of the game", with:
 The game ends when one or more players have won.
 ```
 
+<a name='51'/>
+
+## #51
+
+Replace rule section %end, "End of the game", with
+```The game ends when all players who voted on (not necessarily for)  proposal #51 have won at least once.```
+This proposal fails if proposal #50 passes.
+
