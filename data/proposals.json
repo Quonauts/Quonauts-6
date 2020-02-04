@@ -735,6 +735,17 @@
 				"474286909636476939": 1
 			},
 			"timestamp": 1580745506
+		},
+		{
+			"n": 51,
+			"author": 364562317645709336,
+			"content": "Replace rule section %end, \"End of the game\", with\n```The game ends when all players who voted on (not necessarily for)  proposal #51 have won at least once.```\nThis proposal fails if proposal #50 passes.",
+			"status": "voting",
+			"message_id": 674328822677635084,
+			"votes": {
+				"309787486278909952": 0
+			},
+			"timestamp": 1580842919
 		}
 	]
 }
