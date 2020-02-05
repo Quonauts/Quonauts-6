@@ -748,6 +748,17 @@
 				"474286909636476939": 1
 			},
 			"timestamp": 1580842919
+		},
+		{
+			"n": 52,
+			"author": 160279332454006795,
+			"content": "All players must announce that they are a fish within 24 hours of this proposal passing in the <#660455405738262549> channel. If any player revokes this statement, edits it or deletes it, they are banned from the game. If they do not announce that they are a fish, they are banned from the game.",
+			"status": "voting",
+			"message_id": 674591806087757844,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1580905619
 		}
 	]
 }
