@@ -396,7 +396,7 @@ All players who have voted against this proposal win the game.
 
 <a name='50'/>
 
-## #50
+## #50 — Failed
 
 Since there are winners and there isn't much activity now...
 
