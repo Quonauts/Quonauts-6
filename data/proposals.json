@@ -724,7 +724,7 @@
 			"n": 50,
 			"author": 309787486278909952,
 			"content": "Since there are winners and there isn't much activity now...\n\nReplace rule section %end, \"End of the game\", with:\n```\nThe game ends when one or more players have won.\n```",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 673920244221345859,
 			"votes": {
 				"160279332454006795": -1,
