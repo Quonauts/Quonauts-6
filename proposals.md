@@ -415,7 +415,7 @@ This proposal fails if proposal #50 passes.
 
 <a name='52'/>
 
-## #52
+## #52 — Passed
 
 All players must announce that they are a fish within 24 hours of this proposal passing in the <#660455405738262549> channel. If any player revokes this statement, edits it or deletes it, they are banned from the game. If they do not announce that they are a fish, they are banned from the game.
 
